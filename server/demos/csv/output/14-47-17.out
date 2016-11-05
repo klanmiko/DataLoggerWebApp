@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":1574,"Timestamp":16776693,"state":1}
@@ -1112,6 +1113,8 @@
 {"CAN_Id":513,"Timestamp":16740683,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16740683,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
+=======
+>>>>>>> database page now displays
 {"CAN_Id":1574,"Timestamp":16776693,"State":1}
 {"CAN_Id":1894,"Timestamp":16776693}
 {"CAN_Id":1638,"Timestamp":16776692}
@@ -3158,6 +3161,7 @@
 {"CAN_Id":513,"Timestamp":16740683,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,true,false,false]}
 {"CAN_Id":512,"Timestamp":16740683,"difference_check":0,"throttle":358,"flag":[true,false,false,false,false,false,false,false]}
 {"CAN_Id":291,"Timestamp":16747215}
+<<<<<<< HEAD
 >>>>>>> database page now displays
 =======
 {"CAN_Id":512,"Timestamp":16750384,"difference_check":0,"throttle":1,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,true,true,true,false,false,false,false,false]}
@@ -3779,3 +3783,5 @@
 {"CAN_Id":513,"Timestamp":16740683,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16740683,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> database page now displays

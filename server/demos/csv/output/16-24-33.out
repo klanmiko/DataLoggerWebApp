@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":392,"Timestamp":16777210,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -7893,6 +7894,8 @@
 {"CAN_Id":512,"Timestamp":16339180,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16339179,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
+=======
+>>>>>>> database page now displays
 {"CAN_Id":392,"Timestamp":16777210,"carName":254,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16777209,"min_voltage":0,"max_voltage":0,"pack_voltage":12}
 {"CAN_Id":1160,"Timestamp":16777208,"temp_array":[0,0,0,0,0,0],"highest":0,"pack_max_temp":0}
@@ -20588,6 +20591,7 @@
 {"CAN_Id":1382,"Timestamp":16339178}
 {"CAN_Id":1126,"Timestamp":16339177}
 {"CAN_Id":291,"Timestamp":16347215}
+<<<<<<< HEAD
 >>>>>>> database page now displays
 =======
 {"CAN_Id":513,"Timestamp":16349983,"difference_check":0,"brake":512,"flag":[false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -21304,3 +21308,5 @@
 =======
 {"CAN_Id":513,"Timestamp":16339179,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> remove console logs, added end condition
+=======
+>>>>>>> database page now displays
