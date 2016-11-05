@@ -1,6 +1,5 @@
 const SerialPort = require("serialport");
 const Readable = require('stream').Readable;
-var async = require('async');
 class serialStream extends Readable
 {
     constructor(options)
