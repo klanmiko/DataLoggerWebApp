@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -21,6 +22,8 @@
 >>>>>>> resolve conflicts
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> database page now displays
 {"CAN_Id":392,"Timestamp":16777210,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16777209,"min_voltage":0,"max_voltage":0,"pack_voltage":0}
 {"CAN_Id":1160,"Timestamp":16777208,"temp_array":[0,0,0,0,0,0,0,0],"highest":0,"pack_max_temp":0}
@@ -8236,6 +8239,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> database page now displays
@@ -8244,6 +8248,9 @@
 >>>>>>> modified demo to use dynamic parser
 =======
 >>>>>>> database page now displays
+=======
+>>>>>>> database page now displays
+=======
 =======
 >>>>>>> database page now displays
 {"CAN_Id":392,"Timestamp":16777210,"carName":254,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -18566,6 +18573,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> database page now displays
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -18584,3 +18592,6 @@
 >>>>>>> database page now displays
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> database page now displays
+>>>>>>> database page now displays
