@@ -23,7 +23,11 @@ io.on('connection',function(socket){
 });
 parser.on("data",function(data){
     console.log(JSON.parse(data));
+<<<<<<< HEAD
     io.emit("car",JSON.parse(data));
+=======
+    io.emit("data",JSON.parse(data));
+>>>>>>> database page now displays
     parser.pause();
     setTimeout(function(){
         parser.resume();
