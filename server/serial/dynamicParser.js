@@ -150,7 +150,6 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                     self.specification.push(doc);
                 }
                 return self.beginParsing(out,data,doc);
-<<<<<<< HEAD
             }
             catch(e){
                 throw new Error(e);
@@ -158,12 +157,6 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         }).catch(function(){
             throw new Error("something went horribly wrong");
         });
-    }
-=======
-            }).catch(function(){
-                throw new Error("something went horribly wrong");
-        });
->>>>>>> returned to working state with the local caching:
     }
     parse(data){
         if(data&&data.length>0){
