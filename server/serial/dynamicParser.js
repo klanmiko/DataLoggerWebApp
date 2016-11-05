@@ -20,16 +20,8 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         {
             console.log(value);
             this.push(JSON.stringify(value)+'\n');
-            next();
-<<<<<<< HEAD
         }.bind(this)).done();
         next();
-=======
-        }.bind(this)).catch(function(error){
-            console.error(error);
-            next();
-        }).done();
->>>>>>> returned to working state with the local caching:
     }
     getArray(data,map){
         var out = [];
@@ -134,16 +126,6 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         var out = new Object();
         out.CAN_Id = data[0];
         out.Timestamp = data[1];
-<<<<<<< HEAD
-        if(this.load.status=='pending')this.load.done();
-        for(var i=0;i<this.specification.length;i++)
-        {
-            if(data[0]==this.specification[i].CAN_Id) {
-                return self.beginParsing(out,data,this.specification[i]);
-            }
-        }
-        console.log("looking up database");
-=======
         if(this.load.status=='pending'){
             console.log("waiting");
             this.load.done();
@@ -159,7 +141,6 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         if(!this.specification){
             console.log("not loaded yet");
         }
->>>>>>> returned to working state with the local caching:
         return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
             try{
