@@ -23,7 +23,7 @@ io.on('connection',function(socket){
 });
 parser.on("data",function(data){
     console.log(JSON.parse(data));
-    io.emit("data",JSON.parse(data));
+    io.emit("car",JSON.parse(data));
     parser.pause();
     setTimeout(function(){
         parser.resume();
