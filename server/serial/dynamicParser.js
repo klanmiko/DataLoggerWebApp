@@ -143,6 +143,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             console.log("not loaded yet");
             return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
+<<<<<<< HEAD
             try{
                 Validator(doc);
                 if(self.specification){
@@ -156,6 +157,16 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         }).catch(function(){
             throw new Error("something went horribly wrong");
         });
+=======
+                if(self.specification&&doc){
+                    self.specification.push(doc);
+                }
+                return self.beginParsing(out,data,doc);
+            }).catch(function(){
+                throw new Error("something went horribly wrong");
+            });
+        }
+>>>>>>> remove console logs, added end condition
     }
     }
     parse(data){

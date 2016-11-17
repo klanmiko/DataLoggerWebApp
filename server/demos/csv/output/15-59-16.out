@@ -92,10 +92,14 @@
 {"CAN_Id":904,"Timestamp":16776983,"min_voltage":61,"max_voltage":0,"pack_voltage":65631}
 {"CAN_Id":1574,"Timestamp":16776983,"state":1}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16776982,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16776982,"temp_array":[38,38,38,38,38,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16776982,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16776982,"state":1}
 {"CAN_Id":1574,"Timestamp":16776981,"state":1}
 {"CAN_Id":1574,"Timestamp":16776980,"state":1}
@@ -828,10 +832,14 @@
 {"CAN_Id":1574,"Timestamp":16764405,"state":3}
 {"CAN_Id":1574,"Timestamp":16764404,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16764404,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16764404,"temp_array":[38,38,38,38,38,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16764404,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16764404,"state":3}
 {"CAN_Id":1574,"Timestamp":16764404,"state":3}
 {"CAN_Id":1574,"Timestamp":16764403,"state":3}
@@ -2113,10 +2121,14 @@
 {"CAN_Id":1574,"Timestamp":16727290,"state":3}
 {"CAN_Id":1574,"Timestamp":16727290,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16727289,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16727289,"temp_array":[38,38,38,38,38,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16727289,"temp_array":[38,38,38,38,38,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16727289,"state":3}
 {"CAN_Id":1574,"Timestamp":16727289,"state":3}
 {"CAN_Id":1574,"Timestamp":16727289,"state":3}
@@ -3799,10 +3811,14 @@
 {"CAN_Id":1574,"Timestamp":16654930,"state":3}
 {"CAN_Id":1574,"Timestamp":16654930,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16654930,"temp_array":[38,38,38,38,39,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16654930,"temp_array":[38,38,38,38,39,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16654930,"temp_array":[38,38,38,38,39,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16654930,"state":3}
 {"CAN_Id":1574,"Timestamp":16654930,"state":3}
 {"CAN_Id":1574,"Timestamp":16654929,"state":3}
@@ -4889,10 +4905,14 @@
 {"CAN_Id":1574,"Timestamp":16617174,"state":3}
 {"CAN_Id":1574,"Timestamp":16617173,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16617173,"temp_array":[39,38,38,38,39,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16617173,"temp_array":[39,38,38,38,39,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16617173,"temp_array":[39,38,38,38,39,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16617173,"state":3}
 {"CAN_Id":1574,"Timestamp":16617173,"state":3}
 {"CAN_Id":1574,"Timestamp":16617173,"state":3}
@@ -9918,10 +9938,14 @@
 {"CAN_Id":1574,"Timestamp":16466138,"state":3}
 {"CAN_Id":1574,"Timestamp":16466138,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16466137,"temp_array":[39,38,38,39,39,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16466137,"temp_array":[39,38,38,39,39,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16466137,"temp_array":[39,38,38,39,39,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16466137,"state":3}
 {"CAN_Id":1574,"Timestamp":16466137,"state":3}
 {"CAN_Id":1574,"Timestamp":16466136,"state":3}
@@ -11043,10 +11067,14 @@
 {"CAN_Id":1574,"Timestamp":16425226,"state":3}
 {"CAN_Id":1574,"Timestamp":16425226,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16425226,"temp_array":[39,38,38,39,39,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16425226,"temp_array":[39,38,38,39,39,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16425226,"temp_array":[39,38,38,39,39,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16425225,"state":3}
 {"CAN_Id":1574,"Timestamp":16425225,"state":3}
 {"CAN_Id":1574,"Timestamp":16425225,"state":3}
@@ -12826,10 +12854,14 @@
 {"CAN_Id":1574,"Timestamp":16386202,"state":3}
 {"CAN_Id":1574,"Timestamp":16386202,"state":3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16386202,"temp_array":[39,38,39,39,39,40,5,40],"highest":5,"pack_max_temp":40}
 =======
 {"CAN_Id":1160,"Timestamp":16386202,"temp_array":[39,38,39,39,39,40,5,40],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16386202,"temp_array":[39,38,39,39,39,40,5,40],"highest":5,"pack_max_temp":40}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16386202,"state":3}
 {"CAN_Id":1574,"Timestamp":16386201,"state":3}
 {"CAN_Id":1574,"Timestamp":16386201,"state":3}
@@ -14399,6 +14431,7 @@
 {"CAN_Id":904,"Timestamp":16312560,"min_voltage":54,"max_voltage":0,"pack_voltage":65580}
 {"CAN_Id":1574,"Timestamp":16312560,"state":4}
 {"CAN_Id":1160,"Timestamp":16312559,"temp_array":[39,38,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
+<<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 =======
@@ -14422,6 +14455,8 @@
 {"CAN_Id":1574,"Timestamp":16312560,"state":4}
 {"CAN_Id":1160,"Timestamp":16312559,"temp_array":[39,38,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16312559,"state":4}
 {"CAN_Id":1574,"Timestamp":16312558,"state":4}
 {"CAN_Id":1574,"Timestamp":16312556,"state":4}
@@ -15354,6 +15389,7 @@
 {"CAN_Id":904,"Timestamp":16272277,"min_voltage":45,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16272276,"state":4}
 {"CAN_Id":1160,"Timestamp":16272276,"temp_array":[39,38,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
+<<<<<<< HEAD
 =======
 =======
 {"CAN_Id":1574,"Timestamp":16272277,"state":4}
@@ -15383,6 +15419,8 @@
 {"CAN_Id":1574,"Timestamp":16272276,"state":4}
 {"CAN_Id":1160,"Timestamp":16272276,"temp_array":[39,38,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16272276,"state":4}
 {"CAN_Id":1574,"Timestamp":16272274,"state":4}
 {"CAN_Id":1574,"Timestamp":16272273,"state":4}
@@ -15834,8 +15872,12 @@
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16235145,"min_voltage":0,"max_voltage":44,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16235145,"state":4}
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16235144,"temp_array":[39,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16235144,"temp_array":[39,39,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16235143,"state":4}
 {"CAN_Id":1574,"Timestamp":16235142,"state":4}
 {"CAN_Id":1574,"Timestamp":16235141,"state":4}
@@ -16591,8 +16633,12 @@
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16197381,"min_voltage":0,"max_voltage":0,"pack_voltage":90895}
 {"CAN_Id":1574,"Timestamp":16197381,"state":4}
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16197380,"temp_array":[40,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16197380,"temp_array":[40,39,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16197380,"state":4}
 {"CAN_Id":1574,"Timestamp":16197379,"state":4}
 {"CAN_Id":1574,"Timestamp":16197377,"state":4}
@@ -17733,8 +17779,12 @@
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16160881,"min_voltage":0,"max_voltage":50,"pack_voltage":65548}
 {"CAN_Id":1574,"Timestamp":16160881,"state":4}
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16160880,"temp_array":[40,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16160880,"temp_array":[40,39,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16160880,"state":4}
 {"CAN_Id":1574,"Timestamp":16160878,"state":4}
 {"CAN_Id":1574,"Timestamp":16160877,"state":4}
