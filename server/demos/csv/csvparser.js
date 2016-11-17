@@ -1,14 +1,6 @@
 var Converter = require("csvtojson").Converter;
 var fs = require("fs"); 
-<<<<<<< HEAD
-<<<<<<< HEAD
 var Parser = require("../../serial/dynamicParser.js");
-=======
-var Parser = require("../serial/parser.js");
->>>>>>> database page now displays
-=======
-var Parser = require("../../serial/dynamicParser.js");
->>>>>>> modified demo to use dynamic parser
 fs.readdir("input",function(err,files){ //reads all the files in the input directory, files is an array of names
     for(var i=0;i<files.length;i++)
     {
@@ -24,11 +16,10 @@ fs.readdir("input",function(err,files){ //reads all the files in the input direc
             var parser = new Parser({decodeStrings:false,stringOut:true});
             outputFileName = outputFileName.substring(0,outputFileName.length-3)+"out"; //removes.csv and adds .json
             var write = fs.createWriteStream(outputFileName);
-            parser.pipe(write);
             //create a new instance of a converter for each file
             var converter = new Converter({});
             //nodejs piping magic
-            fs.createReadStream("input/"+files[i]).pipe(converter).pipe(parser);
+            fs.createReadStream("input/"+files[i]).pipe(converter).pipe(parser).pipe(write);
         }
     }
 });

@@ -19,18 +19,26 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         transformed.then(function(value)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             console.log(value);
             this.push(JSON.stringify(value)+'\n');
 =======
             //console.log(value);
+=======
+            console.log(value);
+>>>>>>> returned to working state with the local caching:
             this.push(JSON.stringify(value)+'\n');
-        }.bind(this)).catch(function(){
-        }).finally(function(){
-            //console.error("missing some parser");
             next();
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
         }.bind(this)).done();
         next();
+=======
+        }.bind(this)).catch(function(error){
+            console.error(error);
+            next();
+        }).done();
+>>>>>>> returned to working state with the local caching:
     }
     getArray(data,map){
         var out = [];
