@@ -19,7 +19,14 @@ fs.readdir("input",function(err,files){ //reads all the files in the input direc
             //create a new instance of a converter for each file
             var converter = new Converter({});
             //nodejs piping magic
-            fs.createReadStream("input/"+files[i]).pipe(converter).pipe(parser).pipe(write);
+            var read =  fs.createReadStream("input/"+files[i]);
+            read.on("end",function(){
+                console.log("end");
+                parser.end();
+                write.end();
+            });
+            read.pipe(converter).pipe(parser).pipe(write);
         }
     }
+    return;
 });
