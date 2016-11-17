@@ -139,9 +139,10 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             }
             throw new Error("Can not found");
         }
-        else if(!this.specification){
+        if(!this.specification){
             console.log("not loaded yet");
-            return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
+        }
+        return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
             try{
                 Validator(doc);
@@ -149,6 +150,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                     self.specification.push(doc);
                 }
                 return self.beginParsing(out,data,doc);
+<<<<<<< HEAD
             }
             catch(e){
                 throw new Error(e);
@@ -157,6 +159,11 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             throw new Error("something went horribly wrong");
         });
     }
+=======
+            }).catch(function(){
+                throw new Error("something went horribly wrong");
+        });
+>>>>>>> returned to working state with the local caching:
     }
     parse(data){
         if(data&&data.length>0){
