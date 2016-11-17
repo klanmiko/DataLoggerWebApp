@@ -138,10 +138,9 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             }
             throw new Error("Can not found");
         }
-        if(!this.specification){
+        else if(!this.specification){
             console.log("not loaded yet");
-        }
-        return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
+            return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
                 if(self.specification&&doc){
                     self.specification.push(doc);
@@ -149,7 +148,12 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                 return self.beginParsing(out,data,doc);
             }).catch(function(){
                 throw new Error("something went horribly wrong");
+<<<<<<< HEAD
         });
+=======
+            });
+        }
+>>>>>>> remove console logs, added end condition
     }
     parse(data){
         if(data&&data.length>0){
