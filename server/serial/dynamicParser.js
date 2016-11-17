@@ -19,10 +19,12 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         transformed.then(function(value)
         {
             //console.log(value);
-            this.push(JSON.stringify(value));
+            this.push(JSON.stringify(value)+'\n');
         }.bind(this)).catch(function(){
-            console.error("missing some parser");
-        }.bind(this));
+        }).finally(function(){
+            //console.error("missing some parser");
+            next();
+        }.bind(this)).done();
         next();
     }
     getArray(data,map){
