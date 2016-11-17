@@ -18,8 +18,17 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         var transformed = Q.fcall(this.parse.bind(this),chunk);
         transformed.then(function(value)
         {
+<<<<<<< HEAD
             console.log(value);
             this.push(JSON.stringify(value)+'\n');
+=======
+            //console.log(value);
+            this.push(JSON.stringify(value)+'\n');
+        }.bind(this)).catch(function(){
+        }).finally(function(){
+            //console.error("missing some parser");
+            next();
+>>>>>>> modified demo to use dynamic parser
         }.bind(this)).done();
         next();
     }
