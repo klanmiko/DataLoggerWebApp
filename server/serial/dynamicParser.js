@@ -19,6 +19,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             console.log(value);
             this.push(JSON.stringify(value)+'\n');
             next();
@@ -34,10 +35,13 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             next();
 =======
             console.log(value);
+=======
+            //console.log(value);
+>>>>>>> remove console logs, added end condition
             this.push(JSON.stringify(value)+'\n');
             next();
         }.bind(this)).catch(function(error){
-            console.error(error);
+            //console.error(error);
             next();
 >>>>>>> returned to working state with the local caching:
         }).done();
@@ -155,19 +159,20 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                     return self.beginParsing(out,data,this.specification[i]);
                 }
             }
+            throw new Error("Can not found");
         }
-        if(!this.specification){
+        else if(!this.specification){
             console.log("not loaded yet");
-        }
-        return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
+            return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
-            if(self.specification){
-                self.specification.push(doc);
-            }
-            return self.beginParsing(out,data,doc);
-        }).catch(function(){
-            throw new Error("something went horribly wrong");
-        });
+                if(self.specification&&doc){
+                    self.specification.push(doc);
+                }
+                return self.beginParsing(out,data,doc);
+            }).catch(function(){
+                throw new Error("something went horribly wrong");
+            });
+        }
     }
     parse(data){
         if(data&&data.length>0){
