@@ -486,12 +486,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16764477,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16764477,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16764476,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -500,9 +505,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -523,6 +531,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16764476,"state":3}
 {"CAN_Id":1574,"Timestamp":16764475,"state":3}
 {"CAN_Id":1574,"Timestamp":16764475,"state":3}
@@ -787,11 +797,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
@@ -800,12 +813,15 @@
 =======
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16764405,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16764405,"min_voltage":61,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16764405,"state":3}
 {"CAN_Id":1574,"Timestamp":16764405,"state":3}
@@ -920,12 +936,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16764377,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16764377,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16764376,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -934,10 +955,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16764377,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
@@ -957,6 +981,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16764376,"state":3}
 {"CAN_Id":1574,"Timestamp":16764375,"state":3}
 {"CAN_Id":1574,"Timestamp":16764375,"state":3}
@@ -1318,12 +1344,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16727464,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16727464,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16727463,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1332,9 +1363,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -1355,6 +1389,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16727463,"state":3}
 {"CAN_Id":1574,"Timestamp":16727462,"state":3}
 {"CAN_Id":1574,"Timestamp":16727462,"state":3}
@@ -1726,12 +1762,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16727364,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16727363,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16727363,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1740,9 +1781,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -1763,6 +1807,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16727363,"state":3}
 {"CAN_Id":1574,"Timestamp":16727362,"state":3}
 {"CAN_Id":1574,"Timestamp":16727362,"state":3}
@@ -2034,12 +2080,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16727291,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16727291,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16727291,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2052,6 +2102,11 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":392,"Timestamp":16727291,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16727291,"min_voltage":60,"max_voltage":0,"pack_voltage":65621}
 {"CAN_Id":1574,"Timestamp":16727290,"state":3}
 {"CAN_Id":1574,"Timestamp":16727290,"state":3}
@@ -2160,12 +2215,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16727264,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16727263,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16727263,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2175,6 +2235,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -2199,6 +2262,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16727262,"state":3}
 {"CAN_Id":1574,"Timestamp":16727262,"state":3}
 {"CAN_Id":1574,"Timestamp":16727262,"state":3}
@@ -2495,6 +2560,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690445,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2516,6 +2582,8 @@
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690445,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2525,6 +2593,11 @@
 {"CAN_Id":512,"Timestamp":16690445,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16690445,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16690445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16690445,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16690444,"state":3}
 {"CAN_Id":1574,"Timestamp":16690444,"state":3}
@@ -2897,6 +2970,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16690345,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690345,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690345,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2910,6 +2986,7 @@
 {"CAN_Id":512,"Timestamp":16690345,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690345,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16690345,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690345,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -2930,6 +3007,8 @@
 {"CAN_Id":513,"Timestamp":16690345,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16690345,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16690344,"state":3}
 {"CAN_Id":1574,"Timestamp":16690344,"state":3}
@@ -3304,6 +3383,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16690245,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3316,6 +3396,8 @@
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16690245,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690245,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690245,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3330,8 +3412,11 @@
 {"CAN_Id":512,"Timestamp":16690245,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690245,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16690244,"difference_check":0,"throttle":8,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16690244,"state":3}
 {"CAN_Id":1574,"Timestamp":16690244,"state":3}
@@ -3684,6 +3769,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":392,"Timestamp":16654931,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3692,6 +3778,8 @@
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16654931,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
@@ -3700,8 +3788,11 @@
 =======
 {"CAN_Id":392,"Timestamp":16654931,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16654931,"min_voltage":60,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16654931,"state":3}
 {"CAN_Id":1574,"Timestamp":16654931,"state":3}
@@ -3733,12 +3824,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654925,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654925,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654925,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3747,9 +3843,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -3770,6 +3869,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654924,"state":3}
 {"CAN_Id":1574,"Timestamp":16654924,"state":3}
 {"CAN_Id":1574,"Timestamp":16654924,"state":3}
@@ -4134,6 +4235,7 @@
 {"CAN_Id":1574,"Timestamp":16654826,"state":3}
 {"CAN_Id":1574,"Timestamp":16654826,"state":3}
 {"CAN_Id":1574,"Timestamp":16654826,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4145,6 +4247,10 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654825,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654825,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654825,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4154,9 +4260,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -4178,6 +4287,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654824,"state":3}
 {"CAN_Id":1574,"Timestamp":16654824,"state":3}
 {"CAN_Id":1574,"Timestamp":16654823,"state":3}
@@ -4548,12 +4659,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654725,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654725,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654725,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4562,9 +4678,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -4585,6 +4704,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654724,"state":3}
 {"CAN_Id":1574,"Timestamp":16654724,"state":3}
 {"CAN_Id":1574,"Timestamp":16654724,"state":3}
@@ -4738,6 +4859,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":392,"Timestamp":16617175,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4746,6 +4868,8 @@
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16617175,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
@@ -4754,8 +4878,11 @@
 =======
 {"CAN_Id":392,"Timestamp":16617175,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16617174,"min_voltage":60,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16617174,"state":3}
 {"CAN_Id":1574,"Timestamp":16617174,"state":3}
@@ -5033,12 +5160,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16617102,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16617102,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16617101,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -5048,10 +5180,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16617102,"difference_check":0,"throttle":18,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,false,false,true,false,false,true,false,false,false]}
@@ -5072,6 +5207,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16617101,"state":3}
 {"CAN_Id":1574,"Timestamp":16617100,"state":3}
 {"CAN_Id":1574,"Timestamp":16617100,"state":3}
@@ -5443,12 +5580,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16617002,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16617002,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16617001,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -5458,10 +5600,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16617002,"difference_check":0,"throttle":18,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,false,false,true,false,false,true,false,false,false]}
@@ -5482,6 +5627,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16617000,"state":3}
 {"CAN_Id":1574,"Timestamp":16617000,"state":3}
 {"CAN_Id":1574,"Timestamp":16617000,"state":3}
@@ -6055,6 +6202,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16579777,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579777,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579776,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6079,6 +6227,8 @@
 {"CAN_Id":513,"Timestamp":16579776,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16579777,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579777,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579776,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6087,7 +6237,15 @@
 {"CAN_Id":512,"Timestamp":16579777,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579776,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16579777,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16579777,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16579776,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16579776,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16579776,"state":3}
 {"CAN_Id":1574,"Timestamp":16579776,"state":3}
@@ -6460,6 +6618,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16579677,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6471,6 +6630,8 @@
 {"CAN_Id":513,"Timestamp":16579677,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16579677,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6487,6 +6648,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16579677,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6497,12 +6659,20 @@
 {"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
 {"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+{"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579676,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16579676,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16579676,"state":3}
 {"CAN_Id":1574,"Timestamp":16579675,"state":3}
 {"CAN_Id":1574,"Timestamp":16579675,"state":3}
@@ -6874,8 +7044,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579576,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579576,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6884,6 +7057,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
@@ -6900,11 +7074,18 @@
 {"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16579576,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16579576,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16579576,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579576,"difference_check":0,"throttle":5,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16579576,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16579577,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -6915,6 +7096,11 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16579576,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16579576,"state":3}
 {"CAN_Id":1574,"Timestamp":16579575,"state":3}
 {"CAN_Id":1574,"Timestamp":16579575,"state":3}
@@ -7131,12 +7317,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540651,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540650,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540650,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -7145,10 +7336,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16540651,"difference_check":0,"throttle":18,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,false,true,false,false,false,true,false,false,false]}
@@ -7168,6 +7362,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540649,"state":3}
 {"CAN_Id":1574,"Timestamp":16540649,"state":3}
 {"CAN_Id":1574,"Timestamp":16540649,"state":3}
@@ -7533,6 +7729,7 @@
 {"CAN_Id":1574,"Timestamp":16540551,"state":3}
 {"CAN_Id":1574,"Timestamp":16540551,"state":3}
 {"CAN_Id":1574,"Timestamp":16540551,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7544,6 +7741,10 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540551,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540550,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540550,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -7553,10 +7754,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16540551,"difference_check":0,"throttle":18,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,false,true,false,false,false,true,false,false,false]}
@@ -7577,6 +7781,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540549,"state":3}
 {"CAN_Id":1574,"Timestamp":16540549,"state":3}
 {"CAN_Id":1574,"Timestamp":16540549,"state":3}
@@ -7942,6 +8148,7 @@
 {"CAN_Id":1574,"Timestamp":16540451,"state":3}
 {"CAN_Id":1574,"Timestamp":16540451,"state":3}
 {"CAN_Id":1574,"Timestamp":16540451,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7953,6 +8160,10 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540450,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540450,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540450,"difference_check":0,"throttle":18,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -7962,9 +8173,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -7986,6 +8200,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540449,"state":3}
 {"CAN_Id":1574,"Timestamp":16540449,"state":3}
 {"CAN_Id":1574,"Timestamp":16540449,"state":3}
@@ -8172,8 +8388,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16502924,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16502924,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8182,11 +8401,15 @@
 =======
 {"CAN_Id":513,"Timestamp":16502924,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 {"CAN_Id":513,"Timestamp":16502924,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16502924,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16502923,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8201,6 +8424,8 @@
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16502924,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16502923,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8208,6 +8433,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":512,"Timestamp":16502924,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8215,6 +8441,8 @@
 {"CAN_Id":513,"Timestamp":16502923,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16502923,"state":3}
 {"CAN_Id":1574,"Timestamp":16502922,"state":3}
 {"CAN_Id":1574,"Timestamp":16502922,"state":3}
@@ -8586,6 +8814,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16502824,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16502823,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502823,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8610,6 +8839,8 @@
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16502824,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16502823,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -8625,12 +8856,22 @@
 =======
 =======
 {"CAN_Id":513,"Timestamp":16502824,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16502824,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16502823,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16502823,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16502823,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16502823,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16502823,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16502823,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16502823,"state":3}
 {"CAN_Id":1574,"Timestamp":16502822,"state":3}
 {"CAN_Id":1574,"Timestamp":16502822,"state":3}
@@ -9004,8 +9245,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16502724,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -9014,6 +9258,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16502724,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16502724,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
@@ -9034,12 +9279,21 @@
 {"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+=======
+{"CAN_Id":513,"Timestamp":16502724,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+{"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 <<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 =======
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":512,"Timestamp":16502723,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -9047,6 +9301,8 @@
 {"CAN_Id":513,"Timestamp":16502723,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16502723,"state":3}
 {"CAN_Id":1574,"Timestamp":16502722,"state":3}
 {"CAN_Id":1574,"Timestamp":16502722,"state":3}
@@ -9364,12 +9620,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16466198,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16466198,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16466198,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -9378,10 +9639,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16466198,"difference_check":0,"throttle":12,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,true,false,false,false,false,true,false,true,true,false,false,false,false]}
@@ -9401,6 +9665,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16466197,"state":3}
 {"CAN_Id":1574,"Timestamp":16466197,"state":3}
 {"CAN_Id":1574,"Timestamp":16466196,"state":3}
@@ -9622,6 +9888,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16466138,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16466138,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
@@ -9629,6 +9898,7 @@
 =======
 {"CAN_Id":392,"Timestamp":16466138,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16466138,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
@@ -9641,6 +9911,8 @@
 {"CAN_Id":392,"Timestamp":16466138,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16466138,"min_voltage":0,"max_voltage":0,"pack_voltage":65608}
 {"CAN_Id":1574,"Timestamp":16466138,"state":3}
 {"CAN_Id":1574,"Timestamp":16466138,"state":3}
@@ -9799,12 +10071,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16466098,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16466098,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16466098,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -9814,9 +10091,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -9838,6 +10118,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16466097,"state":3}
 {"CAN_Id":1574,"Timestamp":16466096,"state":3}
 {"CAN_Id":1574,"Timestamp":16466096,"state":3}
@@ -10208,12 +10490,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16465998,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16465998,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16465997,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -10222,10 +10509,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16465998,"difference_check":0,"throttle":12,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,true,false,false,false,false,true,false,true,true,false,false,false,false]}
@@ -10245,6 +10535,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16465997,"state":3}
 {"CAN_Id":1574,"Timestamp":16465996,"state":3}
 {"CAN_Id":1574,"Timestamp":16465996,"state":3}
@@ -10513,12 +10805,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16425270,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16425269,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16425269,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -10527,10 +10824,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16425270,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
@@ -10550,6 +10850,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16425269,"state":3}
 {"CAN_Id":1574,"Timestamp":16425268,"state":3}
 {"CAN_Id":1574,"Timestamp":16425268,"state":3}
@@ -10708,12 +11010,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16425227,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16425227,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16425227,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -10726,6 +11032,11 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":392,"Timestamp":16425227,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16425227,"min_voltage":0,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16425227,"state":3}
 {"CAN_Id":1574,"Timestamp":16425226,"state":3}
@@ -10948,12 +11259,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16425170,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16425169,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16425169,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -10962,9 +11278,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -10985,6 +11304,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16425168,"state":3}
 {"CAN_Id":1574,"Timestamp":16425168,"state":3}
 {"CAN_Id":1574,"Timestamp":16425168,"state":3}
@@ -11350,6 +11671,7 @@
 {"CAN_Id":1574,"Timestamp":16425070,"state":3}
 {"CAN_Id":1574,"Timestamp":16425070,"state":3}
 {"CAN_Id":1574,"Timestamp":16425070,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11361,6 +11683,10 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16425069,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16425069,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16425069,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -11370,10 +11696,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16425069,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
@@ -11394,6 +11723,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16425068,"state":3}
 {"CAN_Id":1574,"Timestamp":16425068,"state":3}
 {"CAN_Id":1574,"Timestamp":16425068,"state":3}
@@ -11840,12 +12171,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16386345,"difference_check":0,"throttle":3,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16386345,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16386345,"difference_check":0,"throttle":3,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -11854,7 +12190,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -11877,6 +12216,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16386344,"state":3}
 {"CAN_Id":1574,"Timestamp":16386344,"state":3}
 {"CAN_Id":1574,"Timestamp":16386344,"state":3}
@@ -12248,12 +12589,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16386245,"difference_check":0,"throttle":3,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16386245,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16386245,"difference_check":0,"throttle":3,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -12262,6 +12608,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -12285,6 +12634,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16386244,"state":3}
 {"CAN_Id":1574,"Timestamp":16386244,"state":3}
 {"CAN_Id":1574,"Timestamp":16386244,"state":3}
@@ -12436,6 +12787,7 @@
 {"CAN_Id":1574,"Timestamp":16386204,"state":3}
 {"CAN_Id":1574,"Timestamp":16386204,"state":3}
 {"CAN_Id":1574,"Timestamp":16386204,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12455,11 +12807,19 @@
 {"CAN_Id":392,"Timestamp":16386203,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16386203,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16386203,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":392,"Timestamp":16386203,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16386203,"min_voltage":0,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16386203,"state":3}
 {"CAN_Id":1574,"Timestamp":16386203,"state":3}
@@ -13018,12 +13378,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16349425,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16349424,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16349424,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -13032,10 +13397,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16349425,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,true,true,true,false,false,false,false,false]}
@@ -13055,6 +13423,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16349423,"state":3}
 {"CAN_Id":1574,"Timestamp":16349423,"state":3}
 {"CAN_Id":1574,"Timestamp":16349423,"state":3}
@@ -13420,6 +13790,7 @@
 {"CAN_Id":1574,"Timestamp":16349325,"state":3}
 {"CAN_Id":1574,"Timestamp":16349325,"state":3}
 {"CAN_Id":1574,"Timestamp":16349325,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13431,6 +13802,10 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16349325,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16349324,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16349324,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -13439,9 +13814,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -13462,6 +13840,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16349323,"state":3}
 {"CAN_Id":1574,"Timestamp":16349323,"state":3}
 {"CAN_Id":1574,"Timestamp":16349323,"state":3}
@@ -13784,12 +14164,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16312703,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16312703,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16312702,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -13798,10 +14183,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16312703,"difference_check":0,"throttle":14,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,true,false,false,false,false,true,true,true,true,false,false,false,false]}
@@ -13821,6 +14209,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16312702,"state":4}
 {"CAN_Id":1574,"Timestamp":16312701,"state":4}
 {"CAN_Id":1574,"Timestamp":16312700,"state":4}
@@ -13911,12 +14301,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16312603,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16312602,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16312602,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -13925,7 +14320,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -13948,6 +14346,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16312602,"state":4}
 {"CAN_Id":1574,"Timestamp":16312601,"state":4}
 {"CAN_Id":1574,"Timestamp":16312600,"state":4}
@@ -13988,6 +14388,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
@@ -14004,11 +14405,19 @@
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":392,"Timestamp":16312561,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16312560,"min_voltage":54,"max_voltage":0,"pack_voltage":65580}
 {"CAN_Id":1574,"Timestamp":16312560,"state":4}
 {"CAN_Id":1160,"Timestamp":16312559,"temp_array":[39,38,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
@@ -14066,12 +14475,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16312503,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16312503,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16312502,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14080,9 +14494,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -14103,6 +14520,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16312501,"state":4}
 {"CAN_Id":1574,"Timestamp":16312501,"state":4}
 {"CAN_Id":1574,"Timestamp":16312499,"state":4}
@@ -14192,12 +14611,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16312403,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16312402,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16312402,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14207,10 +14631,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16312403,"difference_check":0,"throttle":14,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,true,false,false,false,false,true,true,true,true,false,false,false,false]}
@@ -14231,6 +14658,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16312401,"state":4}
 {"CAN_Id":1574,"Timestamp":16312401,"state":4}
 {"CAN_Id":1574,"Timestamp":16312400,"state":4}
@@ -14320,12 +14749,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16312302,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16312302,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16312302,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14334,7 +14768,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -14357,6 +14794,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16312301,"state":4}
 {"CAN_Id":1574,"Timestamp":16312300,"state":4}
 {"CAN_Id":1574,"Timestamp":16312299,"state":4}
@@ -14458,12 +14897,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16272579,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272579,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272578,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14472,6 +14916,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -14495,6 +14942,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16272578,"state":4}
 {"CAN_Id":1574,"Timestamp":16272577,"state":4}
 {"CAN_Id":1574,"Timestamp":16272576,"state":4}
@@ -14584,12 +15033,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16272479,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272479,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272478,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14599,9 +15053,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -14623,6 +15080,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16272477,"state":4}
 {"CAN_Id":1574,"Timestamp":16272476,"state":4}
 {"CAN_Id":1574,"Timestamp":16272475,"state":4}
@@ -14712,12 +15171,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16272379,"difference_check":0,"throttle":40,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272378,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272378,"difference_check":0,"throttle":40,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14727,10 +15191,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16272379,"difference_check":0,"throttle":40,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,false,false,false,true,false,false,true,true,false,false,false,true,false,false]}
@@ -14751,6 +15218,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16272377,"state":4}
 {"CAN_Id":1574,"Timestamp":16272377,"state":4}
 {"CAN_Id":1574,"Timestamp":16272376,"state":4}
@@ -14841,18 +15310,24 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16272279,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272278,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272278,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272278,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272278,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272277,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 {"CAN_Id":1574,"Timestamp":16272277,"state":4}
@@ -14871,6 +15346,8 @@
 <<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16272277,"state":4}
 {"CAN_Id":392,"Timestamp":16272277,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
@@ -14894,7 +15371,14 @@
 {"CAN_Id":1574,"Timestamp":16272277,"state":4}
 {"CAN_Id":392,"Timestamp":16272277,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":1574,"Timestamp":16272277,"state":4}
+{"CAN_Id":392,"Timestamp":16272277,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16272277,"min_voltage":45,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16272276,"state":4}
 {"CAN_Id":1160,"Timestamp":16272276,"temp_array":[39,38,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
@@ -14985,12 +15469,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16272179,"difference_check":0,"throttle":41,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16272178,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16272178,"difference_check":0,"throttle":41,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -14999,7 +15488,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -15022,6 +15514,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16272177,"state":4}
 {"CAN_Id":1574,"Timestamp":16272176,"state":4}
 {"CAN_Id":1574,"Timestamp":16272175,"state":4}
@@ -15108,12 +15602,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16235257,"difference_check":0,"throttle":29,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16235257,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16235256,"difference_check":0,"throttle":29,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15123,6 +15622,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -15147,6 +15649,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16235255,"state":4}
 {"CAN_Id":1574,"Timestamp":16235255,"state":4}
 {"CAN_Id":1574,"Timestamp":16235254,"state":4}
@@ -15236,12 +15740,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16235157,"difference_check":0,"throttle":25,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16235156,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16235156,"difference_check":0,"throttle":25,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15251,9 +15760,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -15275,6 +15787,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16235155,"state":4}
 {"CAN_Id":1574,"Timestamp":16235154,"state":4}
 {"CAN_Id":1574,"Timestamp":16235153,"state":4}
@@ -15289,12 +15803,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16235145,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16235145,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16235145,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15309,6 +15827,11 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":392,"Timestamp":16235145,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16235145,"min_voltage":0,"max_voltage":44,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16235145,"state":4}
 {"CAN_Id":1160,"Timestamp":16235144,"temp_array":[39,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
@@ -15393,6 +15916,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16235056,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15404,6 +15930,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16235056,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15426,6 +15953,10 @@
 {"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16235056,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16235055,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16235055,"state":4}
 {"CAN_Id":1574,"Timestamp":16235054,"state":4}
@@ -15516,12 +16047,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16234956,"difference_check":0,"throttle":4,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16234956,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16234956,"difference_check":0,"throttle":4,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15530,10 +16066,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16234956,"difference_check":0,"throttle":4,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,false,false,true,false,false,true,false,false,false,false]}
@@ -15553,6 +16092,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16234955,"state":4}
 {"CAN_Id":1574,"Timestamp":16234955,"state":4}
 {"CAN_Id":1574,"Timestamp":16234953,"state":4}
@@ -15642,12 +16183,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16234856,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16234856,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16234856,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15656,9 +16202,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -15679,6 +16228,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16234855,"state":4}
 {"CAN_Id":1574,"Timestamp":16234854,"state":4}
 {"CAN_Id":1574,"Timestamp":16234853,"state":4}
@@ -15774,12 +16325,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197535,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16197535,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16197535,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15789,9 +16345,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -15813,6 +16372,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16197534,"state":4}
 {"CAN_Id":1574,"Timestamp":16197533,"state":4}
 {"CAN_Id":1574,"Timestamp":16197532,"state":4}
@@ -15902,12 +16463,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197435,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16197435,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16197435,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -15917,10 +16483,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16197435,"difference_check":0,"throttle":0,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,false,false,true,true,true,false,true,true,false,false]}
@@ -15941,6 +16510,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16197434,"state":4}
 {"CAN_Id":1574,"Timestamp":16197433,"state":4}
 {"CAN_Id":1574,"Timestamp":16197432,"state":4}
@@ -15991,6 +16562,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16197381,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16197381,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
@@ -15998,6 +16572,7 @@
 =======
 {"CAN_Id":392,"Timestamp":16197381,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 {"CAN_Id":904,"Timestamp":16197381,"min_voltage":0,"max_voltage":0,"pack_voltage":90895}
 {"CAN_Id":1574,"Timestamp":16197381,"state":4}
 {"CAN_Id":1160,"Timestamp":16197380,"temp_array":[40,39,39,39,39,41,5,41],"highest":5,"pack_max_temp":41}
@@ -16012,6 +16587,8 @@
 {"CAN_Id":392,"Timestamp":16197381,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16197381,"min_voltage":0,"max_voltage":0,"pack_voltage":90895}
 {"CAN_Id":1574,"Timestamp":16197381,"state":4}
 {"CAN_Id":1160,"Timestamp":16197380,"temp_array":[40,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
@@ -16059,12 +16636,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197335,"difference_check":0,"throttle":50,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16197335,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16197335,"difference_check":0,"throttle":50,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16074,9 +16656,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -16098,6 +16683,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16197334,"state":4}
 {"CAN_Id":1574,"Timestamp":16197333,"state":4}
 {"CAN_Id":1574,"Timestamp":16197332,"state":4}
@@ -16187,12 +16774,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197235,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16197235,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16197234,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16201,9 +16793,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -16224,6 +16819,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16197234,"state":4}
 {"CAN_Id":1574,"Timestamp":16197233,"state":4}
 {"CAN_Id":1574,"Timestamp":16197232,"state":4}
@@ -16316,30 +16913,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-=======
-{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-=======
-=======
->>>>>>> modified demo to use dynamic parser
-{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
->>>>>>> returned to working state with the local caching:
-{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
->>>>>>> modified demo to use dynamic parser
 =======
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16350,17 +16937,42 @@
 >>>>>>> modified demo to use dynamic parser
 =======
 {"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+=======
+{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 >>>>>>> returned to working state with the local caching:
 =======
 =======
 {"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16197135,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16197134,"difference_check":0,"throttle":38,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16197134,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16197134,"state":4}
 {"CAN_Id":1574,"Timestamp":16197133,"state":4}
 {"CAN_Id":1574,"Timestamp":16197132,"state":4}
@@ -16462,6 +17074,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16161315,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161315,"difference_check":0,"throttle":22,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161314,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16487,6 +17100,8 @@
 =======
 {"CAN_Id":513,"Timestamp":16161315,"difference_check":0,"brake":0,"flag":[false,true,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16161315,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161315,"difference_check":0,"throttle":22,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16501,12 +17116,22 @@
 =======
 =======
 {"CAN_Id":513,"Timestamp":16161315,"difference_check":0,"brake":0,"flag":[false,true,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16161315,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161315,"difference_check":0,"throttle":22,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16161314,"difference_check":0,"brake":0,"flag":[false,true,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16161314,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161314,"difference_check":0,"throttle":22,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16161314,"difference_check":0,"brake":0,"flag":[false,true,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16161314,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16161314,"state":4}
 {"CAN_Id":1574,"Timestamp":16161313,"state":4}
 {"CAN_Id":1574,"Timestamp":16161312,"state":4}
@@ -16599,6 +17224,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16161215,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16610,6 +17236,8 @@
 {"CAN_Id":513,"Timestamp":16161215,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16161215,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161215,"difference_check":0,"throttle":20,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16626,6 +17254,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16161215,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16161215,"difference_check":0,"throttle":20,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161214,"difference_check":0,"throttle":20,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16636,12 +17265,21 @@
 {"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161215,"difference_check":0,"throttle":20,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161214,"difference_check":0,"throttle":20,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16161214,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16161214,"state":4}
 {"CAN_Id":1574,"Timestamp":16161213,"state":4}
 {"CAN_Id":1574,"Timestamp":16161212,"state":4}
@@ -16731,6 +17369,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16161115,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16743,6 +17382,8 @@
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16161115,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161114,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161114,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16757,8 +17398,11 @@
 {"CAN_Id":512,"Timestamp":16161114,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161114,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161114,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16161114,"state":4}
 {"CAN_Id":1574,"Timestamp":16161113,"state":4}
@@ -16850,6 +17494,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16161015,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161014,"difference_check":0,"throttle":21,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161014,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16863,6 +17510,7 @@
 {"CAN_Id":512,"Timestamp":16161014,"difference_check":0,"throttle":21,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16161014,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16161015,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16161014,"difference_check":0,"throttle":21,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16883,6 +17531,8 @@
 {"CAN_Id":513,"Timestamp":16161014,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16161014,"difference_check":0,"throttle":21,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16161014,"state":4}
 {"CAN_Id":1574,"Timestamp":16161013,"state":4}
@@ -16973,12 +17623,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16160915,"difference_check":0,"throttle":25,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16160915,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16160914,"difference_check":0,"throttle":25,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -16988,9 +17643,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 =======
 >>>>>>> modified demo to use dynamic parser
@@ -17012,6 +17670,8 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16160913,"state":4}
 {"CAN_Id":1574,"Timestamp":16160912,"state":4}
 {"CAN_Id":1574,"Timestamp":16160911,"state":4}
@@ -17045,6 +17705,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":392,"Timestamp":16160881,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17053,6 +17714,8 @@
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16160881,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16160881,"min_voltage":0,"max_voltage":50,"pack_voltage":65548}
@@ -17065,6 +17728,9 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":392,"Timestamp":16160881,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16160881,"min_voltage":0,"max_voltage":50,"pack_voltage":65548}
 {"CAN_Id":1574,"Timestamp":16160881,"state":4}
 {"CAN_Id":1160,"Timestamp":16160880,"temp_array":[40,39,39,39,39,41,5,41],"highest":0,"pack_max_temp":0}
@@ -17123,8 +17789,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16122393,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122392,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122392,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17134,11 +17803,15 @@
 {"CAN_Id":513,"Timestamp":16122392,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 =======
 {"CAN_Id":513,"Timestamp":16122393,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122392,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122392,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16122393,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122392,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17151,6 +17824,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16122392,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16122391,"state":1}
 {"CAN_Id":1574,"Timestamp":16122390,"state":1}
@@ -17241,6 +17916,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16122293,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122292,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17251,6 +17929,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16122293,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16122292,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122292,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17280,12 +17959,21 @@
 =======
 =======
 {"CAN_Id":513,"Timestamp":16122293,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16122292,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122292,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16122292,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16122292,"state":1}
 {"CAN_Id":1574,"Timestamp":16122291,"state":1}
 {"CAN_Id":1574,"Timestamp":16122290,"state":1}
@@ -17376,23 +18064,31 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 >>>>>>> modified demo to use dynamic parser
-{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
-{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
->>>>>>> modified demo to use dynamic parser
-=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16122192,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122192,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
@@ -17497,6 +18193,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":513,"Timestamp":16122093,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17508,6 +18205,8 @@
 {"CAN_Id":513,"Timestamp":16122093,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16122093,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16122092,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17524,6 +18223,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16122093,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16122092,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122092,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17534,12 +18234,21 @@
 {"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16122092,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16122092,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+<<<<<<< HEAD
 >>>>>>> modified demo to use dynamic parser
+=======
+=======
+{"CAN_Id":513,"Timestamp":16122092,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16122091,"state":1}
 {"CAN_Id":1574,"Timestamp":16122091,"state":1}
 {"CAN_Id":1574,"Timestamp":16122089,"state":1}
@@ -17630,6 +18339,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16121992,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17639,6 +18349,8 @@
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 =======
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16121992,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17653,6 +18365,7 @@
 {"CAN_Id":512,"Timestamp":16121992,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 =======
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16121992,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -17663,6 +18376,8 @@
 {"CAN_Id":513,"Timestamp":16121992,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16121992,"difference_check":0,"throttle":9,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16121992,"state":1}
 {"CAN_Id":1574,"Timestamp":16121991,"state":1}
