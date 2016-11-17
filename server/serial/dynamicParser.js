@@ -157,6 +157,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             throw new Error("something went horribly wrong");
         });
     }
+    }
     parse(data){
         if(data&&data.length>0){
             var deferred = Q.defer();
