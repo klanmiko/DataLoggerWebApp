@@ -1,6 +1,6 @@
 var Converter = require("csvtojson").Converter;
 var fs = require("fs"); 
-var Parser = require("../serial/dynamicParser.js");
+var Parser = require("../../serial/dynamicParser.js");
 fs.readdir("input",function(err,files){ //reads all the files in the input directory, files is an array of names
     for(var i=0;i<files.length;i++)
     {
