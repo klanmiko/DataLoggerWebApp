@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":392,"Timestamp":16777210,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -12056,3 +12057,5 @@
 >>>>>>> database page now displays
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition
