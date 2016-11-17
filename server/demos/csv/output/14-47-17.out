@@ -308,7 +308,7 @@
 {"CAN_Id":392,"Timestamp":16776355,"SOC":0,"flag":[false,true,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 {"CAN_Id":904,"Timestamp":16776355,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16776355,"state":1}
-{"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":1574,"Timestamp":16776354,"state":1}
 {"CAN_Id":1574,"Timestamp":16776352,"state":1}
 {"CAN_Id":1574,"Timestamp":16776351,"state":1}
@@ -553,7 +553,7 @@
 {"CAN_Id":392,"Timestamp":16749959,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 {"CAN_Id":904,"Timestamp":16749959,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16749958,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16749958,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16749884,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16749884,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16749883,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -590,7 +590,7 @@
 {"CAN_Id":513,"Timestamp":16749383,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16749331,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16749330,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16749329,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16749329,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16749284,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16749284,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16749283,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -627,7 +627,7 @@
 {"CAN_Id":513,"Timestamp":16748783,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16748702,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16748702,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16748701,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16748701,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16748684,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16748684,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16748683,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -670,7 +670,7 @@
 {"CAN_Id":513,"Timestamp":16748083,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16748073,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16748073,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16748072,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16748072,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16747984,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16747984,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16747983,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -705,7 +705,7 @@
 {"CAN_Id":512,"Timestamp":16747483,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16747445,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16747444,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16747443,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16747443,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16747384,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16747384,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16747383,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -741,7 +741,7 @@
 {"CAN_Id":512,"Timestamp":16746883,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16746816,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16746816,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16746815,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16746815,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16746784,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16746784,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16746783,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -777,7 +777,7 @@
 {"CAN_Id":512,"Timestamp":16746283,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16746187,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16746187,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16746186,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16746186,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16746184,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16746184,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16746184,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -818,7 +818,7 @@
 {"CAN_Id":512,"Timestamp":16745583,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16745559,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16745559,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16745558,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16745558,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16745484,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16745484,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16745484,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -856,7 +856,7 @@
 {"CAN_Id":512,"Timestamp":16744983,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16744930,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16744930,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16744929,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16744929,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16744884,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16744884,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16744884,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -892,7 +892,7 @@
 {"CAN_Id":513,"Timestamp":16744383,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16744302,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16744301,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16744300,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16744300,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16744284,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16744284,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16744284,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -933,7 +933,7 @@
 {"CAN_Id":512,"Timestamp":16743683,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16743673,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16743673,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16743672,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16743672,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16743584,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16743584,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16743584,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -969,7 +969,7 @@
 {"CAN_Id":512,"Timestamp":16743083,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16743044,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16743044,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16743043,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16743043,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16742984,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16742984,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16742984,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1005,7 +1005,7 @@
 {"CAN_Id":513,"Timestamp":16742483,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16742416,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16742416,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16742414,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16742414,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16742384,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16742384,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16742384,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1041,7 +1041,7 @@
 {"CAN_Id":512,"Timestamp":16741883,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16741787,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16741787,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16741786,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16741786,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16741784,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16741784,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16741784,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1084,7 +1084,7 @@
 {"CAN_Id":512,"Timestamp":16741183,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16741158,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16741158,"min_voltage":0,"max_voltage":2583,"pack_voltage":65536}
-{"CAN_Id":1160,"Timestamp":16741157,"temp_array":[34,33,33,33,34,35,5,35],"highest":0,"pack_max_temp":0}
+{"CAN_Id":1160,"Timestamp":16741157,"temp_array":[34,33,33,33,34,35,5,35],"highest":5,"pack_max_temp":35}
 {"CAN_Id":512,"Timestamp":16741084,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16741084,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16741084,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
