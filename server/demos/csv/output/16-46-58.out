@@ -551,6 +551,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -561,12 +562,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16769075,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16769074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16769074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16769074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16769074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16769073,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -604,6 +608,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16769073,"state":3}
 {"CAN_Id":1574,"Timestamp":16769073,"state":3}
 {"CAN_Id":1574,"Timestamp":16769073,"state":3}
@@ -968,6 +974,7 @@
 {"CAN_Id":1574,"Timestamp":16768975,"state":3}
 {"CAN_Id":1574,"Timestamp":16768975,"state":3}
 {"CAN_Id":1574,"Timestamp":16768975,"state":3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -985,11 +992,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16768975,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16768974,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16768974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16768974,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16768974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1026,6 +1036,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16768974,"state":3}
 {"CAN_Id":1574,"Timestamp":16768973,"state":3}
 {"CAN_Id":1574,"Timestamp":16768973,"state":3}
@@ -1082,6 +1094,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -1092,12 +1105,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16768875,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16768874,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16768874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16768874,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16768874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16768798,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1636,117 +1652,120 @@
 {"CAN_Id":513,"Timestamp":16768874,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16768874,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
 {"CAN_Id":392,"Timestamp":16768798,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16768798,"min_voltage":0,"max_voltage":24,"pack_voltage":65536}
 {"CAN_Id":1160,"Timestamp":16768797,"temp_array":[42,42,42,42,43,44,5,44],"highest":0,"pack_max_temp":0}
-{"CAN_Id":512,"Timestamp":16768775,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768774,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768774,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768774,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768774,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768675,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768674,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768674,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768674,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768674,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768575,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768574,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768574,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768574,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768574,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768475,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768474,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768474,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768474,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768474,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768375,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768374,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768374,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768374,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768374,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768275,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768274,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768274,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768274,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768274,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768175,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768174,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768174,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768174,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768174,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768173,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":392,"Timestamp":16768169,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
+{"CAN_Id":512,"Timestamp":16768775,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768774,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768774,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768675,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768674,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768674,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768575,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768574,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768574,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768475,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768474,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768474,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768375,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768374,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768374,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768275,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768274,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768274,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768274,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768274,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768175,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768174,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768174,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768174,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768174,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768173,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":392,"Timestamp":16768169,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16768169,"min_voltage":0,"max_voltage":24,"pack_voltage":65536}
 {"CAN_Id":1160,"Timestamp":16768167,"temp_array":[42,42,42,42,43,44,5,44],"highest":0,"pack_max_temp":0}
-{"CAN_Id":512,"Timestamp":16768075,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768074,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768074,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16768074,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16768074,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767975,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767974,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767974,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767974,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767974,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768075,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16768074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16768074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767975,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767974,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767974,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16767958,"state":5}
-{"CAN_Id":512,"Timestamp":16767875,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767875,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767874,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767874,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767874,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767874,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767775,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767775,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767774,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767774,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767774,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767675,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767675,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767674,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767674,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767674,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767575,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767575,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767574,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767574,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767574,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":392,"Timestamp":16767539,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
+{"CAN_Id":512,"Timestamp":16767875,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767875,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767874,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767874,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767775,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767775,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767774,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767675,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767675,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767674,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767575,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767575,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767574,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":392,"Timestamp":16767539,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16767539,"min_voltage":0,"max_voltage":24,"pack_voltage":65536}
 {"CAN_Id":1160,"Timestamp":16767538,"temp_array":[42,42,42,42,43,44,5,44],"highest":0,"pack_max_temp":0}
-{"CAN_Id":512,"Timestamp":16767475,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767475,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767474,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767474,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767474,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767375,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767375,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767374,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767374,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767374,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767275,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767275,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767274,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767274,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767274,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767274,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767175,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767175,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767174,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767174,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767174,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767174,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767075,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767075,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767074,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16767074,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16767074,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16766975,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16766975,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16766974,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16766974,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":512,"Timestamp":16766974,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
-{"CAN_Id":392,"Timestamp":16766910,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
+{"CAN_Id":512,"Timestamp":16767475,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767475,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767474,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767375,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767375,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767374,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767275,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767275,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767274,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767274,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767274,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767274,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767175,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767175,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767174,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767174,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767174,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767174,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767075,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767075,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16767074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16767074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766975,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766975,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766974,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766974,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":392,"Timestamp":16766910,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":904,"Timestamp":16766909,"min_voltage":0,"max_voltage":24,"pack_voltage":65536}
 {"CAN_Id":1160,"Timestamp":16766908,"temp_array":[42,42,42,42,43,44,5,44],"highest":0,"pack_max_temp":0}
+<<<<<<< HEAD
 {"CAN_Id":512,"Timestamp":16766875,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16766875,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16766874,"difference_check":0,"throttle":2,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false]}
@@ -1813,6 +1832,44 @@
 >>>>>>> modified demo to use dynamic parser
 =======
 =======
+=======
+{"CAN_Id":512,"Timestamp":16766875,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766875,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766874,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766874,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766775,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766775,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766774,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766774,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766774,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766675,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766675,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766674,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766674,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766575,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766574,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766574,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766574,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766475,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766474,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766474,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766474,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766473,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766375,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766374,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766374,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16766374,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16766373,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":392,"Timestamp":16766280,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":904,"Timestamp":16766280,"min_voltage":0,"max_voltage":24,"pack_voltage":65536}
+{"CAN_Id":1160,"Timestamp":16766279,"temp_array":[42,42,42,42,43,44,5,44],"highest":0,"pack_max_temp":0}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16766275,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16766274,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16766274,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -1829,10 +1886,13 @@
 {"CAN_Id":512,"Timestamp":16766074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16766074,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16766074,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729639,"state":4}
 {"CAN_Id":1574,"Timestamp":16729638,"state":4}
 {"CAN_Id":1574,"Timestamp":16729637,"state":4}
@@ -1894,6 +1954,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -1904,11 +1965,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729576,"difference_check":0,"throttle":11,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729575,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729575,"difference_check":0,"throttle":11,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729575,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729575,"difference_check":0,"throttle":11,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1945,6 +2009,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729575,"state":4}
 {"CAN_Id":1574,"Timestamp":16729574,"state":4}
 {"CAN_Id":1574,"Timestamp":16729573,"state":4}
@@ -2038,6 +2104,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2048,12 +2115,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729476,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729476,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729475,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729475,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729475,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729475,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2091,6 +2161,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729474,"state":4}
 {"CAN_Id":1574,"Timestamp":16729474,"state":4}
 {"CAN_Id":1574,"Timestamp":16729473,"state":4}
@@ -2181,6 +2253,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2191,11 +2264,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729376,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729376,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729375,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729375,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729375,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2232,6 +2308,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729375,"state":4}
 {"CAN_Id":1574,"Timestamp":16729374,"state":4}
 {"CAN_Id":1574,"Timestamp":16729373,"state":4}
@@ -2324,6 +2402,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2334,11 +2413,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729276,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729275,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729275,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729275,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729275,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2375,6 +2457,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729274,"state":4}
 {"CAN_Id":1574,"Timestamp":16729273,"state":4}
 {"CAN_Id":1574,"Timestamp":16729272,"state":4}
@@ -2466,6 +2550,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2476,12 +2561,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729176,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729175,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729175,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729175,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729175,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16729174,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2519,6 +2607,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16729174,"state":4}
 {"CAN_Id":1574,"Timestamp":16729173,"state":4}
 {"CAN_Id":1574,"Timestamp":16729172,"state":4}
@@ -2625,6 +2715,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2635,11 +2726,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16691273,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691273,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691273,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691273,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691272,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2676,6 +2770,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16691272,"state":4}
 {"CAN_Id":1574,"Timestamp":16691272,"state":4}
 {"CAN_Id":1574,"Timestamp":16691270,"state":4}
@@ -2765,6 +2861,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2775,12 +2872,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16691173,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691173,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691173,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691173,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691172,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691172,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2818,6 +2918,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16691172,"state":4}
 {"CAN_Id":1574,"Timestamp":16691171,"state":4}
 {"CAN_Id":1574,"Timestamp":16691170,"state":4}
@@ -2909,6 +3011,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -2919,11 +3022,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16691073,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691073,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691073,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16691072,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16691072,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2960,6 +3066,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16691072,"state":4}
 {"CAN_Id":1574,"Timestamp":16691071,"state":4}
 {"CAN_Id":1574,"Timestamp":16691070,"state":4}
@@ -3051,6 +3159,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -3061,12 +3170,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16690973,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690973,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690973,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690973,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690972,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690972,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3104,6 +3216,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16690972,"state":4}
 {"CAN_Id":1574,"Timestamp":16690971,"state":4}
 {"CAN_Id":1574,"Timestamp":16690970,"state":4}
@@ -3196,6 +3310,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -3206,11 +3321,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16690873,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690873,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690873,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16690872,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16690872,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3247,6 +3365,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16690872,"state":4}
 {"CAN_Id":1574,"Timestamp":16690871,"state":4}
 {"CAN_Id":1574,"Timestamp":16690870,"state":4}
@@ -3306,6 +3426,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16654667,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654667,"difference_check":0,"throttle":48,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654667,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3349,6 +3470,11 @@
 {"CAN_Id":512,"Timestamp":16654667,"difference_check":0,"throttle":48,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654667,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16654667,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16654667,"difference_check":0,"throttle":48,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16654667,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654666,"difference_check":0,"throttle":48,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16654666,"state":4}
 {"CAN_Id":1574,"Timestamp":16654665,"state":4}
@@ -3442,6 +3568,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16654567,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654567,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654567,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3490,6 +3617,11 @@
 {"CAN_Id":512,"Timestamp":16654567,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654567,"difference_check":0,"brake":0,"flag":[false,false,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16654567,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16654567,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16654567,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654566,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16654566,"state":4}
 {"CAN_Id":1574,"Timestamp":16654566,"state":4}
@@ -3584,6 +3716,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654467,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -3643,11 +3776,18 @@
 >>>>>>> returned to working state with the local caching:
 =======
 {"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+=======
+{"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654467,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16654467,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654466,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16654466,"difference_check":0,"brake":0,"flag":[false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16654466,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654466,"state":4}
 {"CAN_Id":1574,"Timestamp":16654465,"state":4}
 {"CAN_Id":1574,"Timestamp":16654465,"state":4}
@@ -3740,6 +3880,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -3750,12 +3891,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654367,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654367,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654367,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654367,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654366,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654366,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3793,6 +3937,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654366,"state":4}
 {"CAN_Id":1574,"Timestamp":16654365,"state":4}
 {"CAN_Id":1574,"Timestamp":16654364,"state":4}
@@ -3885,6 +4031,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -3895,12 +4042,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16654267,"difference_check":0,"throttle":52,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654267,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654267,"difference_check":0,"throttle":52,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654266,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16654266,"difference_check":0,"throttle":52,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16654266,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3938,6 +4088,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16654266,"state":4}
 {"CAN_Id":1574,"Timestamp":16654266,"state":4}
 {"CAN_Id":1574,"Timestamp":16654264,"state":4}
@@ -4013,6 +4165,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":392,"Timestamp":16654184,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4040,6 +4193,9 @@
 =======
 {"CAN_Id":392,"Timestamp":16654184,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":392,"Timestamp":16654184,"SOC":99,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16654184,"min_voltage":66,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16654184,"state":4}
 {"CAN_Id":1574,"Timestamp":16614637,"state":4}
@@ -4114,6 +4270,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -4124,11 +4281,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16614560,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614560,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614560,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614559,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614559,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4165,6 +4325,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16614559,"state":4}
 {"CAN_Id":1574,"Timestamp":16614558,"state":4}
 {"CAN_Id":1574,"Timestamp":16614557,"state":4}
@@ -4218,6 +4380,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":392,"Timestamp":16614505,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 =======
 {"CAN_Id":392,"Timestamp":16614505,"SOC":0,"flag":[false,true,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
@@ -4248,6 +4411,9 @@
 =======
 {"CAN_Id":392,"Timestamp":16614505,"SOC":0,"flag":[false,true,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":392,"Timestamp":16614505,"SOC":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":904,"Timestamp":16614505,"min_voltage":0,"max_voltage":0,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16614505,"state":4}
 {"CAN_Id":1160,"Timestamp":16614504,"temp_array":[42,42,42,43,43,44,5,44],"highest":0,"pack_max_temp":0}
@@ -4295,6 +4461,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -4305,12 +4472,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16614460,"difference_check":0,"throttle":4,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614460,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614460,"difference_check":0,"throttle":4,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614459,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614459,"difference_check":0,"throttle":4,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614459,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4348,6 +4518,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16614459,"state":4}
 {"CAN_Id":1574,"Timestamp":16614458,"state":4}
 {"CAN_Id":1574,"Timestamp":16614457,"state":4}
@@ -4440,6 +4612,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16614360,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614359,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614359,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4484,6 +4657,11 @@
 {"CAN_Id":512,"Timestamp":16614359,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614359,"difference_check":0,"brake":0,"flag":[false,true,false,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16614360,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16614359,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16614359,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16614359,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16614359,"state":4}
 {"CAN_Id":1574,"Timestamp":16614358,"state":4}
@@ -4576,6 +4754,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -4586,11 +4765,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16614260,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614260,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614259,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614259,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614259,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4627,6 +4809,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16614259,"state":4}
 {"CAN_Id":1574,"Timestamp":16614258,"state":4}
 {"CAN_Id":1574,"Timestamp":16614257,"state":4}
@@ -4719,6 +4903,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -4729,12 +4914,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16614160,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614160,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614159,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614159,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16614159,"difference_check":0,"throttle":14,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16614159,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4772,6 +4960,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16614159,"state":4}
 {"CAN_Id":1574,"Timestamp":16614158,"state":4}
 {"CAN_Id":1574,"Timestamp":16614157,"state":4}
@@ -4888,6 +5078,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16579052,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16579052,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579051,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -4952,6 +5143,13 @@
 {"CAN_Id":512,"Timestamp":16579051,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16579051,"difference_check":0,"brake":0,"flag":[false,false,true,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16579052,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16579052,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16579051,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16579051,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16579051,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16579051,"state":4}
 {"CAN_Id":1574,"Timestamp":16579050,"state":4}
 {"CAN_Id":1574,"Timestamp":16579049,"state":4}
@@ -5045,6 +5243,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16578952,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578952,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578951,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
@@ -5093,6 +5292,11 @@
 {"CAN_Id":512,"Timestamp":16578952,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578951,"difference_check":0,"brake":0,"flag":[false,false,true,false,false,false,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":513,"Timestamp":16578952,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":512,"Timestamp":16578952,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16578951,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16578951,"difference_check":0,"throttle":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":1574,"Timestamp":16578951,"state":4}
 {"CAN_Id":1574,"Timestamp":16578951,"state":4}
@@ -5187,6 +5391,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5197,12 +5402,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16578852,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578852,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578852,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578851,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578851,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578851,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5240,6 +5448,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16578851,"state":4}
 {"CAN_Id":1574,"Timestamp":16578850,"state":4}
 {"CAN_Id":1574,"Timestamp":16578849,"state":4}
@@ -5332,6 +5542,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5342,11 +5553,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16578752,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578752,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578751,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578751,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578751,"difference_check":0,"throttle":56,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5383,6 +5597,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16578751,"state":4}
 {"CAN_Id":1574,"Timestamp":16578750,"state":4}
 {"CAN_Id":1574,"Timestamp":16578749,"state":4}
@@ -5475,6 +5691,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5485,11 +5702,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16578652,"difference_check":0,"throttle":55,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578652,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578651,"difference_check":0,"throttle":55,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16578651,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16578651,"difference_check":0,"throttle":55,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5526,12 +5746,15 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16578650,"state":4}
 {"CAN_Id":1574,"Timestamp":16578650,"state":4}
 {"CAN_Id":1574,"Timestamp":16578648,"state":4}
 {"CAN_Id":1574,"Timestamp":16578647,"state":4}
 {"CAN_Id":1574,"Timestamp":16578646,"state":4}
 {"CAN_Id":1574,"Timestamp":16578645,"state":4}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5549,11 +5772,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540745,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540745,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540744,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540744,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540744,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5590,6 +5816,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540744,"state":4}
 {"CAN_Id":1574,"Timestamp":16540743,"state":4}
 {"CAN_Id":1574,"Timestamp":16540742,"state":4}
@@ -5681,6 +5909,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5691,12 +5920,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540645,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540645,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540644,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540644,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540644,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540644,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5734,6 +5966,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540644,"state":4}
 {"CAN_Id":1574,"Timestamp":16540643,"state":4}
 {"CAN_Id":1574,"Timestamp":16540642,"state":4}
@@ -5826,6 +6060,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5836,12 +6071,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540545,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540545,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540544,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540544,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540544,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540544,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5879,6 +6117,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540543,"state":4}
 {"CAN_Id":1574,"Timestamp":16540543,"state":4}
 {"CAN_Id":1574,"Timestamp":16540542,"state":4}
@@ -5970,6 +6210,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -5980,12 +6221,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540445,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540445,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540444,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540444,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540444,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540444,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6023,6 +6267,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540443,"state":4}
 {"CAN_Id":1574,"Timestamp":16540443,"state":4}
 {"CAN_Id":1574,"Timestamp":16540442,"state":4}
@@ -6114,6 +6360,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -6124,12 +6371,15 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540345,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540344,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540344,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540344,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540344,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540343,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6167,6 +6417,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540343,"state":4}
 {"CAN_Id":1574,"Timestamp":16540342,"state":4}
 {"CAN_Id":1574,"Timestamp":16540341,"state":4}
@@ -6258,6 +6510,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> returned to working state with the local caching:
 =======
@@ -6268,11 +6521,14 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16540245,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540244,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540244,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":513,"Timestamp":16540244,"difference_check":0,"brake":0,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16540244,"difference_check":0,"throttle":1,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6309,6 +6565,8 @@
 >>>>>>> returned to working state with the local caching:
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> returned to working state with the local caching:
 {"CAN_Id":1574,"Timestamp":16540243,"state":4}
 {"CAN_Id":1574,"Timestamp":16540243,"state":4}
 {"CAN_Id":1574,"Timestamp":16540241,"state":4}
