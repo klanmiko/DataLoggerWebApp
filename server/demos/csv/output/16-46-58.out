@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -25,6 +26,8 @@
 >>>>>>> modified demo to use dynamic parser
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition
 =======
 >>>>>>> database page now displays
 =======
@@ -15076,3 +15079,5 @@
 >>>>>>> database page now displays
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition

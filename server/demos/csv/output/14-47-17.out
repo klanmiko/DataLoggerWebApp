@@ -338,6 +338,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":5,"pack_max_temp":35}
 =======
 {"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":0,"pack_max_temp":0}
@@ -348,6 +349,9 @@
 =======
 {"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16776354,"temp_array":[34,33,33,33,33,35,5,35],"highest":5,"pack_max_temp":35}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16776354,"state":1}
 {"CAN_Id":1574,"Timestamp":16776352,"state":1}
 {"CAN_Id":1574,"Timestamp":16776351,"state":1}

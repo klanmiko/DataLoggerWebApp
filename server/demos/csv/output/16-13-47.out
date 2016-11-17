@@ -102,6 +102,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16776982,"temp_array":[40,39,39,39,40,41,5,41],"highest":5,"pack_max_temp":41}
 =======
 {"CAN_Id":1160,"Timestamp":16776982,"temp_array":[40,39,39,39,40,41,5,41],"highest":0,"pack_max_temp":0}
@@ -112,6 +113,9 @@
 =======
 {"CAN_Id":1160,"Timestamp":16776982,"temp_array":[40,39,39,39,40,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16776982,"temp_array":[40,39,39,39,40,41,5,41],"highest":5,"pack_max_temp":41}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16776982,"state":1}
 {"CAN_Id":1574,"Timestamp":16776981,"state":1}
 {"CAN_Id":1574,"Timestamp":16776979,"state":1}
@@ -250,8 +254,12 @@
 {"CAN_Id":904,"Timestamp":16768173,"min_voltage":20,"max_voltage":82,"pack_voltage":65536}
 {"CAN_Id":1574,"Timestamp":16768173,"state":1}
 {"CAN_Id":1574,"Timestamp":16768172,"state":1}
+<<<<<<< HEAD
 {"CAN_Id":1160,"Timestamp":16768172,"temp_array":[40,39,39,39,40,41,5,41],"highest":0,"pack_max_temp":0}
 >>>>>>> modified demo to use dynamic parser
+=======
+{"CAN_Id":1160,"Timestamp":16768172,"temp_array":[40,39,39,39,40,41,5,41],"highest":5,"pack_max_temp":41}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16768171,"state":1}
 {"CAN_Id":1574,"Timestamp":16768169,"state":1}
 {"CAN_Id":1574,"Timestamp":16768168,"state":1}
@@ -1362,9 +1370,9 @@
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16730257,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16730257,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16730257,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16730257,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16730256,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16730256,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16730256,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1593,10 +1601,11 @@
 =======
 >>>>>>> modified demo to use dynamic parser
 {"CAN_Id":512,"Timestamp":16730157,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16730157,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16730157,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16730157,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16730157,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16730157,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16730156,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16730156,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 >>>>>>> returned to working state with the local caching:
@@ -1612,6 +1621,9 @@
 >>>>>>> modified demo to use dynamic parser
 =======
 >>>>>>> returned to working state with the local caching:
+=======
+{"CAN_Id":513,"Timestamp":16730156,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16730156,"state":4}
 {"CAN_Id":1574,"Timestamp":16730155,"state":4}
 {"CAN_Id":1574,"Timestamp":16730154,"state":4}
@@ -1717,6 +1729,9 @@
 {"CAN_Id":512,"Timestamp":16730056,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":513,"Timestamp":16730056,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 =======
@@ -1738,6 +1753,7 @@
 =======
 {"CAN_Id":513,"Timestamp":16730056,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 >>>>>>> remove console logs, added end condition
+<<<<<<< HEAD
 =======
 >>>>>>> modified demo to use dynamic parser
 =======
@@ -1815,6 +1831,8 @@
 =======
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
+=======
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16730056,"state":4}
 {"CAN_Id":1574,"Timestamp":16730055,"state":4}
 {"CAN_Id":1574,"Timestamp":16730054,"state":4}
@@ -1997,10 +2015,11 @@
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16729957,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16729957,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16729957,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729957,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16729956,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16729956,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16729956,"difference_check":0,"throttle":2,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16729956,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2021,7 +2040,13 @@
 =======
 =======
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 >>>>>>> returned to working state with the local caching:
+=======
+=======
+{"CAN_Id":513,"Timestamp":16729956,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> remove console logs, added end condition
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16729956,"state":4}
 {"CAN_Id":1574,"Timestamp":16729955,"state":4}
 {"CAN_Id":1574,"Timestamp":16729954,"state":4}
@@ -2232,10 +2257,11 @@
 >>>>>>> returned to working state with the local caching:
 >>>>>>> returned to working state with the local caching:
 {"CAN_Id":512,"Timestamp":16692247,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16692246,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16692246,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16692246,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
-{"CAN_Id":513,"Timestamp":16692246,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"CAN_Id":513,"Timestamp":16692246,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 {"CAN_Id":512,"Timestamp":16692246,"difference_check":0,"throttle":12,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+<<<<<<< HEAD
 {"CAN_Id":513,"Timestamp":16692245,"difference_check":0,"brake":512,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2256,7 +2282,13 @@
 =======
 =======
 >>>>>>> returned to working state with the local caching:
+<<<<<<< HEAD
 >>>>>>> returned to working state with the local caching:
+=======
+=======
+{"CAN_Id":513,"Timestamp":16692245,"difference_check":0,"brake":256,"flag":[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]}
+>>>>>>> remove console logs, added end condition
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16692245,"state":4}
 {"CAN_Id":1574,"Timestamp":16692244,"state":4}
 {"CAN_Id":1574,"Timestamp":16692243,"state":4}
@@ -2668,6 +2700,7 @@
 {"CAN_Id":1574,"Timestamp":16692008,"state":4}
 {"CAN_Id":1160,"Timestamp":16692008,"temp_array":[40,40,40,40,40,41,5,41],"highest":5,"pack_max_temp":41}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 {"CAN_Id":392,"Timestamp":16692009,"SOC":99,"flag":[false,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false]}
 =======
@@ -2713,6 +2746,8 @@
 >>>>>>> remove console logs, added end condition
 =======
 >>>>>>> modified demo to use dynamic parser
+=======
+>>>>>>> remove console logs, added end condition
 {"CAN_Id":1574,"Timestamp":16692007,"state":4}
 {"CAN_Id":1574,"Timestamp":16692005,"state":4}
 {"CAN_Id":1574,"Timestamp":16692004,"state":4}
