@@ -12,36 +12,43 @@
   </div>
 	<div class="jumbotron">
 		<div class="container">
-      <div style="display: inline-flex">
+      <div style="display: flex">
         <div class="throttle-brake">
-          <div style="display: inline-flex; align-items: flex-end; height: 400px; position: relative; text-align: center;margin-top: 40px ">
+          <div style="display: inline-flex; align-items: flex-end; height: 400px; position: relative; text-align: center;margin-top: 40px">
             <div>
-              <div style="width: 100px;height: 400px;background-color: darkgreen;margin-right: 10px; text-align:center; padding-top: 5px">
+              <div style="width: 100px;height: 400px;background-color: darkgreen;margin-right: 10px; text-align:center; padding-top: 5px;margin-bottom: 15px">
                <font color="white">100%</font>
               </div>
                 <font size="4">Throttle</font>
             </div>
             <div>
-              <div style="width: 100px;height: 100px; background-color: darkred; text-align:center;padding-top: 5px">
+              <div style="width: 100px;height: 100px; background-color: darkred; text-align:center;padding-top: 5px;margin-bottom: 15px">
                 <font color="white">20%</font>
               </div>
                  <font size="4">Brake</font>
             </div>
           </div>
         </div>
-        <div  class="temperature-table" style="margin-left: 15%">
-          <table>
-            <tr>
-              <th><div class="temperature" style="background-color: darkred">90&degC</div></th>
-              <th><div class="temperature" style="background-color: darkgreen">40&degC</div></th>
-              <th><div class="temperature" style="background-color: darkred">80&degC</div></th>
-            </tr>
-            <tr>
-              <th><div class="temperature" style="background-color: darkgreen">60&degC</div></th>
-              <th><div class="temperature" style="background-color: darkgreen">33&degC</div></th>
-              <th><div class="temperature" style="background-color: darkred">85&degC</div></th>
-            </tr>
-          </table>
+        <div  class="temperature-table" style="margin-left: 15%;display: flex; flex-direction: column-reverse; align-items: flex-end;">
+          <div style="text-align: center">
+            <table>
+              <tr>
+                <th><div class="temperature" style="background-color: darkred">90&degC</div></th>
+                <th><div class="temperature" style="background-color: darkgreen">40&degC</div></th>
+                <th><div class="temperature" style="background-color: darkred">80&degC</div></th>
+              </tr>
+              <tr>
+                <th><div class="temperature" style="background-color: darkgreen">60&degC</div></th>
+                <th><div class="temperature" style="background-color: darkgreen">33&degC</div></th>
+                <th><div class="temperature" style="background-color: darkred">85&degC</div></th>
+              </tr>
+            </table>
+            <font size="4">Temperatures</font>
+          </div>
+        </div>
+
+        <div class="info" style="margin-left: 15%">
+          <font size="4">Battery State: Precharge</font>
         </div>
       </div>
 		</div>
