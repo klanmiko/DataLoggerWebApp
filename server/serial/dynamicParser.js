@@ -17,11 +17,11 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         var transformed = Q.fcall(this.parse.bind(this),chunk);
         transformed.then(function(value)
         {
-            console.log(value);
+            //console.log(value);
             this.push(JSON.stringify(value));
             next();
         }.bind(this)).catch(function(){
-            console.error("missing some parser");
+            //console.error("missing some parser");
             next();
         }.bind(this)).done();
     }
