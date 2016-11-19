@@ -6,6 +6,7 @@ import overview from './overview/overview.component';
 import car from './car/car.component';
 import bms from './bms/bms.component';
 import database from './database/database.component';
+import upload from './upload/upload.component'
 
 export class DashboardController {
   /*@ngInject*/
@@ -17,7 +18,7 @@ export class DashboardController {
   }
 }
 
-export default angular.module('dataLoggerWebAppApp.dashboard', [uiRouter, overview, database, car, bms])
+export default angular.module('dataLoggerWebAppApp.dashboard', [uiRouter, overview, database, car, bms, upload])
   .config(routing)
   .component('dashboard', {
     template: require('./dashboard.html'),

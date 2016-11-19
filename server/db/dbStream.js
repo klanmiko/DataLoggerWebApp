@@ -28,7 +28,7 @@ class dbStream extends Writable {
     _write(chunk,encoding,callback)
     {
         if(this.collection){
-            console.log("writing");
+            //console.log("writing");
             this.collection.insert(JSON.parse(chunk));
         }
         else if(!this.collection){

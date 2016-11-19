@@ -6,6 +6,7 @@ var local = path.resolve(__dirname);
 var fs = require('fs');
 var assert = require('assert');
 var mongoose = Mongoose.createConnection("mongodb://localhost/data");
+var Validator = require('./validator.js');
 var canDescription  = new Mongoose.Schema({
     CAN_Id: {
         type:Number,
@@ -38,55 +39,102 @@ function load(){
         model.count({"CAN_Id":1574},function(err,countr){
             if(countr==0){
                 if(defaults.can_1574){
-                    model.create(defaults.can_1574,function(err,doc){
-                        if(err) console.error(err);
-                        assert.deepEqual(defaults.can_1574,doc);
-                    });
+                    try{
+                        Validator(defaults.can_1574);
+                        model.create(defaults.can_1574,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_1574._id = doc._id;
+                            assert.deepEqual(defaults.can_1574,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });
         model.count({"CAN_Id":512},function(err,countr){
             if(countr==0){
                 if(defaults.can_512){
-                    model.create(defaults.can_512,function(err,doc){
-                        if(err) console.error(err);
-                    });
+                    try{
+                        Validator(defaults.can_512);
+                        model.create(defaults.can_512,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_512._id = doc._id;
+                            assert.deepEqual(defaults.can_512,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });
         model.count({"CAN_Id":513},function(err,countr){
             if(countr==0){
                 if(defaults.can_513){
-                    model.create(defaults.can_513,function(err,doc){
-                        if(err) console.error(err);
-                    });
+                    try{
+                        Validator(defaults.can_513);
+                        model.create(defaults.can_513,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_513._id = doc._id;
+                            assert.deepEqual(defaults.can_513,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });
         model.count({"CAN_Id":1160},function(err,countr){
             if(countr==0){
                 if(defaults.can_1160){
-                    model.create(defaults.can_1160,function(err,doc){
-                        if(err) console.error(err);
-                    });
+                    try{
+                        Validator(defaults.can_1160);
+                        model.create(defaults.can_1160,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_1160._id = doc._id;
+                            assert.deepEqual(defaults.can_1160,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });
         model.count({"CAN_Id":392},function(err,countr){
             if(countr==0){
                 if(defaults.can_392){
-                    model.create(defaults.can_392,function(err,doc){
-                        if(err) console.error(err);
-                    });
+                    try{
+                        Validator(defaults.can_392);
+                        model.create(defaults.can_392,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_392._id = doc._id;
+                            assert.deepEqual(defaults.can_392,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });
         model.count({"CAN_Id":904},function(err,countr){
             if(countr==0){
                 if(defaults.can_904){
-                    model.create(defaults.can_904,function(err,doc){
-                        if(err) console.error(err);
-                    });
+                    try{
+                        Validator(defaults.can_904);
+                        model.create(defaults.can_904,function(err,doc){
+                            if(err) console.error(err);
+                            defaults.can_904._id = doc._id;
+                            assert.deepEqual(defaults.can_904,doc);
+                        });
+                    }
+                    catch(error){
+                        console.error(error);
+                    }
                 }
             }
         });

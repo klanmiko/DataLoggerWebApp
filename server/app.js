@@ -60,9 +60,9 @@ function startServer() {
 }
 
 setImmediate(startServer);
-setTimeout(function(){
+setImmediate(function(){
   arduinoListener = new Serial();
   arduinoListener.pipe(parser).pipe(database);
-},10000);
+});
 // Expose app
 exports = module.exports = app;

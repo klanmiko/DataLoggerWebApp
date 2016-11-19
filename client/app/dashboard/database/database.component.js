@@ -6,9 +6,23 @@ import c3 from 'c3';
 
 export class DatabaseController {
   /*@ngInject*/
-  constructor() {
+  constructor($scope,$http) {
+    $scope.collections = [];
+    $scope.selected = null;
+    $scope.log = [];
+    var self = this;
+    $scope.query = function(){
+      $http({url:`api/db/collections/${$scope.selected.name}`,method:"GET"}).then(function(response){
+        $scope.log = response.data;
+        console.log(response);
+      });
+    };
+    $http({url:"api/db/collections",method:"GET"}).then(function(data){
+      $scope.collections = data.data;
+      $scope.selected = $scope.collections[0];
+      console.log(data.data);
+    });
   }
-
   $onInit() {
   }
 }

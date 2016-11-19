@@ -6,11 +6,13 @@
 
 import errors from './components/errors';
 import path from 'path';
+import bodyParser from 'body-parser';
 var dbStream = require('./db/dbStream.js');
 var database;
 export default function(app,parser,db) {
   // Insert routes below
   database = db;
+  app.use(bodyParser.json());
   app.use('/api/things', require('./api/thing'));
   app.use('/api/db',require('./api/db/routes.js'));
   // All undefined asset or api routes should return a 404

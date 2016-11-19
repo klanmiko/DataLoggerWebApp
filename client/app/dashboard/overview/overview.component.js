@@ -6,7 +6,6 @@ export class OverviewController {
   /*@ngInject*/
   constructor() {
   }
-
   $onInit() {
   }
 }

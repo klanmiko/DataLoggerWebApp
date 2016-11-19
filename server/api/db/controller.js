@@ -1,4 +1,6 @@
 var MongoClient = require('mongodb').MongoClient;
+var model = require('./parse_descriptor.js').model;
+var Validator = require('./validator.js');
 var database;
 MongoClient.connect('mongodb://localhost/data',function(err,db){
   if(err){
@@ -8,12 +10,8 @@ MongoClient.connect('mongodb://localhost/data',function(err,db){
   database = db;
 });
 export function list(req,res){
-  console.log("list");
   database.listCollections().toArray(function (err,collections) {
-    console.log("inside");
     if(err)console.error(err);
-    console.log(collections);
-    console.log(res);
     res.status(200).send(collections);
   });
 }
@@ -28,4 +26,15 @@ export function printData(req,res){
     }
     res.status(200).send(elements);
   });
+}
+export function save(req,res){
+  try{
+    Validator(req.body);
+    model.update({CAN_Id:req.body.CAN_Id},req.body,{upsert:true});
+    res.sendStatus(201);
+  }
+  catch(error){
+    console.error(error);
+    res.status(400);
+  }
 }

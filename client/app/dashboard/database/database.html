@@ -13,6 +13,22 @@
 	<div class="jumbotron">
 		<div class="container">
 			<h1>Log</h1>
+      <select ng-options="collection.name for collection in collections" ng-model="selected"></select>
+      <button ng-click="query()">query</button>
+      <table>
+        <tbody>
+            <tr>
+              <td>CAN</td>
+              <td>Timestamp</td>
+              <td>State</td>
+            </tr>
+            <tr ng-repeat = "obj in log">
+              <td>{{obj.CAN_Id}}</td>
+              <td>{{obj.Timestamp}}</td>
+              <td>{{obj.state}}</td>
+            </tr>
+        </tbody>
+      </table>
 		</div>
 	</div>
 </div>
