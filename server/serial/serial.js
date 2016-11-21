@@ -67,7 +67,8 @@ class serialStream extends Readable
     }
     _close(){
         console.log("closing");
-        this.disconnect();
+        clearInterval(this.reconnect); 
+        this.reconnect = undefined;
     }
     _data(data){
         if(data.length==15){

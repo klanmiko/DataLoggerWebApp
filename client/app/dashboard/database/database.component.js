@@ -12,8 +12,12 @@ export class DatabaseController {
     $scope.log = [];
     var self = this;
     $scope.query = function(){
+      $scope.log = [];
       $http({url:`api/db/collections/${$scope.selected.name}`,method:"GET"}).then(function(response){
-        $scope.log = response.data;
+        //$scope.log = response.data;
+        response.data.forEach(function(element){
+          $scope.log.push(element);
+        });
         console.log(response);
       });
     };

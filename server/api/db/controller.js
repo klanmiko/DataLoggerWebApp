@@ -24,7 +24,8 @@ export function printData(req,res){
       console.error(err);
       res.status(404);
     }
-    res.status(200).send(elements);
+    res.send(elements);
+    console.log("response");
   });
 }
 export function save(req,res){
