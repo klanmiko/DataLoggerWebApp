@@ -148,12 +148,8 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                 return self.beginParsing(out,data,doc);
             }).catch(function(){
                 throw new Error("something went horribly wrong");
-<<<<<<< HEAD
         });
-=======
-            });
         }
->>>>>>> remove console logs, added end condition
     }
     parse(data){
         if(data&&data.length>0){
