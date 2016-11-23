@@ -35,7 +35,31 @@ function Socket(socketFactory) {
        * Syncs item creation/updates on 'model:newData'
        */
       socket.on(`${modelName}`, function(item) {
-        cb(item);
+        var arrayData;
+        if(modelName == 'car') {
+          arrayData = [
+            ['throttleX'],
+            ['brakeX'],
+            ['throttleY'],
+            ['brakeY']
+          ];
+
+          if(item.hasOwnProperty('throttle')) {
+            arrayData[0].push(item.Timestamp);
+            arrayData[2].push(item.throttle);
+          } else {
+            arrayData[1].push(item.Timestamp);
+            arrayData[3].push(item.brake);
+          }
+        } else if(modelName == 'bms') {
+          //TODO: Finish like above
+        } else if(modelName == 'curtis') {
+          //TODO: Finish like above
+        } else {
+          //TODO: Finish like above
+        }
+
+        cb(arrayData);      
       });
     },
 
