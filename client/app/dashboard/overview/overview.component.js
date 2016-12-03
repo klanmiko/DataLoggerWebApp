@@ -9,13 +9,13 @@ function updateThrottleBrake(throttle,brake) {
   if(throttle)
     throttleBrakeChart.load({
       columns: [
-        ['data1', throttle]
+        ['Throttle', throttle]
       ]
     });
   if(brake)
     throttleBrakeChart.load({
       columns: [
-        ['data2', brake]
+        ['Brake', brake]
       ]
     });
 }
@@ -27,17 +27,13 @@ export class OverviewController {
       bindto: '#throttle-brake',
       data: {
         columns: [
-          ['data1', 100],
-          ['data2', 20]
+          ['Throttle', 100],
+          ['Brake', 20]
         ],
         type: 'bar'
       },
       bar: {
-        width: {
-          ratio: 0.5 // this makes bar width 50% of length between ticks
-        }
-        // or
-        //width: 100 // this makes bar width 100px
+        width: 100 // this makes bar width 100px
       }
     });
     $scope.$on('$destroy', function() {
@@ -49,7 +45,7 @@ export class OverviewController {
     this.socket.syncUpdates('car', function(data){
       if(data){
         if(data.CAN_Id==512) updateThrottleBrake(data,null);
-        else if(data.CAN_Id==513) this.brakeBuffer.push(null,data);
+        else if(data.CAN_Id==513) updateThrottleBrake(null,data);
       }
     }.bind(this));
   }
