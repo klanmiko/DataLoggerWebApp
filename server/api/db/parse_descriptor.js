@@ -33,7 +33,7 @@ var canDescription  = new Mongoose.Schema({
 });
 var model = mongoose.model('Descriptor',canDescription);
 function load(){
-    fs.readFile(`${local}/defaults.json`,function(err,data){
+    fs.readFile(`${local}/defaults.conf`,function(err,data){
         var defaults = JSON.parse(data);
         model.count({"CAN_Id":1574},function(err,countr){
             if(countr==0){
