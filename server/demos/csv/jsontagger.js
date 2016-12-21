@@ -1,6 +1,6 @@
 var fs = require('fs');
 const readline = require('readline');
-var Parser = require('../../serial/dynamicParser.js');
+var Parser = require('../serial/parser.js');
 fs.readdir("intermediate",function(err,files){ // 'intermediate/*.csv' file format
     for(var i=0;i<files.length;i++)
     {
