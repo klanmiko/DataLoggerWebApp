@@ -20,8 +20,11 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         {
             //console.log(value);
             this.push(JSON.stringify(value)+'\n');
-        }.bind(this)).done();
-        next();
+        }.bind(this)).catch(function(){
+            //console.error("missing some parser");
+        }.bind(this)).finally(function(){
+            next();
+        }).done();
     }
     getArray(data,map){
         var out = [];
@@ -126,22 +129,15 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         var out = new Object();
         out.CAN_Id = data[0];
         out.Timestamp = data[1];
-        if(this.load.status=='pending'){
-            console.log("waiting");
-            this.load.done();
-        }
-        if(this.specification){
-            for(var i=0;i<this.specification.length;i++)
-            {
-                if(data[0]==this.specification[i].CAN_Id) {
-                    return self.beginParsing(out,data,this.specification[i]);
-                }
+        if(this.load.status=='pending')this.load.done();
+        for(var i=0;i<this.specification.length;i++)
+        {
+            if(data[0]==this.specification[i].CAN_Id) {
+                return self.beginParsing(out,data,this.specification[i]);
             }
-            throw new Error("Can not found");
         }
-        else if(!this.specification){
-            console.log("not loaded yet");
-            return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
+        //console.log("looking up database");
+        return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
             try{
                 Validator(doc);
@@ -156,7 +152,6 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         }).catch(function(){
             throw new Error("something went horribly wrong");
         });
-    }
     }
     parse(data){
         if(data&&data.length>0){

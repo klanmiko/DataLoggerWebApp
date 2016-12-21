@@ -22,8 +22,6 @@ fs.readdir("input",function(err,files){ //reads all the files in the input direc
             var read =  fs.createReadStream("input/"+files[i]);
             read.on("end",function(){
                 console.log("end");
-                parser.end();
-                write.end();
             });
             read.pipe(converter).pipe(parser).pipe(write);
         }
