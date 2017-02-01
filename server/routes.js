@@ -12,6 +12,7 @@ export default function(app,parser,db) {
   app.use('/api/db',require('./api/db/routes.js'));
   var run = new Run(db,parser);
   app.use('/api/run',run.router);
+  app.use('/api/upload',require('./api/upload/routes.js'));
   // All undefined asset or api routes should return a 404
   app.route('/:url(api|auth|components|app|bower_components|assets)/*')
    .get(errors[404]);

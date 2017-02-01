@@ -46,6 +46,8 @@ parser.on('data',function(data){
       case 904:
         socketio.emit("bms",data);
         break;
+      default:
+        socketio.emit("data",data);
     }
 });
 require('./config/socketio').default(socketio);

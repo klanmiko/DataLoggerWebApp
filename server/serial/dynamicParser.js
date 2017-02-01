@@ -20,17 +20,18 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         {
             //console.log(value);
             this.push(JSON.stringify(value));
-        }.bind(this)).catch(function(){
+        }.bind(this)).catch(function(err){
+            if(err) console.error(err);
             console.error("missing some parser");
         }.bind(this));
         next();
     }
     getArray(data,map){
         var out = [];
-        for(var i=Math.floor(map.offset/8)+2;i<data.length;i+=map.array.subLength/8){
+        for(var i=0;i<map.length;i++){
             out.push(this.getValue(data.slice(),
                 {dataType:map.array.subDataType,
-                    offset:(i-2)*8,
+                    offset:map.offset+i*map.array.subLength,
                     length:map.array.subLength
                 }));
         }
@@ -133,10 +134,12 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             out.raw.push(data[i].toString(16));
         }
         if(this.load.status=='pending')this.load.done();
-        for(var i=0;i<this.specification.length;i++)
-        {
-            if(data[0]==this.specification[i].CAN_Id) {
-                return self.beginParsing(out,data,this.specification[i]);
+        if(this.specification){
+            for(var i=0;i<this.specification.length;i++)
+            {
+                if(data[0]==this.specification[i].CAN_Id) {
+                    return self.beginParsing(out,data,this.specification[i]);
+                }
             }
         }
         console.log("looking up database");

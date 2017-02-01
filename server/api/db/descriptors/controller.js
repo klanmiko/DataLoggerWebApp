@@ -35,36 +35,52 @@ export function updateDescriptor(req,res){
         set.PDO_Description = doc.PDO_Description;
         var count;
         model.findOne({CAN_Id:req.params.descriptor}).select("map").exec().then(function(document){
-            document = document.toObject();
-            count = document.map.length;
-            if(document.map.length>doc.map.length) throw new Error("too few fields");
-            for(var i=0;i<count;i++){
-                Object.keys(doc.map[i]).forEach(function(key){
-                    if(key!='key') set[`map.${i}.${key}`] = doc.map[i][key];
-                });
-                if(doc.map[i].dataType!="array") unset[`map.${i}.array`]="";
-            }
-            console.log("set");
-            console.log(set);
-            var add = doc.map.slice(count,doc.map.length);
-            console.log("add");
-            console.log(add);
-            model.update({CAN_Id:req.params.descriptor},{$set:set,$unset:unset},{upsert:true,new:true},function(err,doc){
-                if(err) {
-                    console.error(err);
-                    res.status(501).send("invalid update procedure");
-                    return;
+            if(document){
+                document = document.toObject();
+                count = document.map.length;
+                if(document.map.length>doc.map.length) throw new Error("too few fields");
+                for(var i=0;i<count;i++){
+                    Object.keys(doc.map[i]).forEach(function(key){
+                        if(key!='key') set[`map.${i}.${key}`] = doc.map[i][key];
+                    });
+                    if(doc.map[i].dataType!="array") unset[`map.${i}.array`]="";
                 }
-                model.findOneAndUpdate({CAN_Id:req.params.descriptor},{$addToSet:{map:{$each:add}}},{upsert:true,new:true},function(err,doc){
-                    if(err){
+                console.log("set");
+                console.log(set);
+                var add = doc.map.slice(count,doc.map.length);
+                console.log("add");
+                console.log(add);
+                model.update({CAN_Id:req.params.descriptor},{$set:set,$unset:unset},{upsert:true,new:true},function(err,doc){
+                    if(err) {
                         console.error(err);
                         res.status(501).send("invalid update procedure");
                         return;
                     }
-                    res.status(200).send(doc);
+                    model.findOneAndUpdate({CAN_Id:req.params.descriptor},{$addToSet:{map:{$each:add}}},{upsert:true,new:true},function(err,doc){
+                        if(err){
+                            console.error(err);
+                            res.status(501).send("invalid update procedure");
+                            return;
+                        }
+                        res.status(200).send(doc);
+                    });
                 });
-            });
-        });
+            }
+            else{
+                model.create(doc,function(err,docs){
+                    if(err){
+                        console.log("error creating documents");
+                        console.error(err);
+                        return;
+                    }
+                    res.sendStatus(200);
+                });
+            }
+        })
+        .catch(function(err){
+            console.error(err);
+        })
+        .done();
     }
     catch(e){
         console.log(e);
@@ -84,7 +100,6 @@ export function deleteMap(req,res){
         model.find({CAN_Id:req.params.descriptor,map:{$elemMatch:element}}).select({map:1,_id:0}).exec().then(function(doc){
             console.log(doc);
             if(doc){
-                delete element.key;
                 model.update({CAN_Id:req.params.descriptor},{$pull:{map:element}},{upsert:false},function(err,doc){
                     if(err){
                         console.error(err);
@@ -106,7 +121,7 @@ export function deleteMap(req,res){
     else{
         model.find({CAN_Id:req.params.descriptor,"map.key":{$exists:true}}).exec().then(function(doc){
             console.log(doc);
-            if(!doc){
+            if(!doc || (doc instanceof Array && doc.length==0)){
                 model.remove({CAN_Id:req.params.descriptor},function(err){
                     if(err){
                         console.log(err);

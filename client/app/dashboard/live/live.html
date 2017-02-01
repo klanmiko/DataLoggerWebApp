@@ -11,9 +11,28 @@
     </div>
   </div>
 	<div class="jumbotron">
-		<div class="container">
-			<h1>DATA!</h1>
-			Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! Data! <br /><br />
-		</div>
+		<div class="container-fluid">
+      <div class="row">
+        <h3>Pedal</h3>
+      </div>
+      <div class="graph">
+        <div id="throttle-brake-chart"></div>
+      </div>
+      <div class="row">
+        <h3>BMS Temperatures</h3>
+      </div>
+      <div class="graph">
+        <div id="temp-chart"></div>
+      </div>
+      <div class="row">
+        <h3>Battery</h3>
+      </div>
+      <div class="graph">
+        <div id="battery-chart"></div>
+      </div>
+      <div class="row">
+        <h3>Generics</h3>
+      </div>
+      <div ng-repeat="value in genericsIds" on-finish-render="updateGraphs" id="can{{value}}">{{value}}</div>
 	</div>
 </div>
