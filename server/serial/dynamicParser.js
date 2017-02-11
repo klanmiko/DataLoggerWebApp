@@ -21,8 +21,10 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
             //console.log(value);
             this.push(JSON.stringify(value));
         }.bind(this)).catch(function(err){
-            if(err) console.error(err);
-            console.error("missing some parser");
+            if(process.env.NODE_ENV=="development"){
+                if(err) console.error(err);
+                console.error("missing some parser");
+            }
         }.bind(this));
         next();
     }
@@ -142,7 +144,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                 }
             }
         }
-        console.log("looking up database");
+        //console.log("looking up database");
         return Descriptor.model.findOne({CAN_Id:data[0]}).exec().then(function(doc){
         //TODO run validation
             try{
