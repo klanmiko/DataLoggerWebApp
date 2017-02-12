@@ -33,13 +33,14 @@ MongoClient.connect('mongodb://localhost/data',function(err,db){
 });
 
 export function list(req,res){
-  database.listCollections({name:/[1-9]+.[1-9]+.[0-9]+/}).toArray(function (err,array) {
+  database.listCollections({name:/[0-9]+.[0-9]+.[0-9]+-[0-9]+.[0-9]+.[0-9]+/}).toArray(function (err,array) {
     if(err)console.error(err);
     var collections = [];
     array.forEach(function(value,index,array){
       collections.push(value.name);
     });
     sort(collections);
+    console.log(`Found ${collections.length} collections`);
     res.status(200).send(collections);
   });
 }
@@ -88,6 +89,7 @@ export function download(req,res){
         return;
       }
       res.status(200).send();
+      console.log("Download of data complete");
     });
   }
 }
@@ -103,6 +105,7 @@ export function printData(req,res){
       console.error(err);
       res.status(404);
     }
+    console.log("Sent "+elements.length+" elements from db");
     res.status(200).send(elements);
   });
   else{

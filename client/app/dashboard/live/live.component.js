@@ -196,7 +196,6 @@ export class LiveComponent {
     this.voltageBuffer = new Buffer(1000, ['min_voltage', 'max_voltage', 'pack_voltage'], plotNew);
     this.carStateBuffer = new Buffer(1000,['state'],plotNew);
 
-
     $scope.genericsGraphMap = genericsGraphMap;
     $scope.genericsBufferMap = genericsBufferMap;
     $scope.genericsIds = genericsIds;

@@ -54,7 +54,7 @@ module.exports = function makeWebpackConfig(options) {
                 'lodash',
                 'd3',
                 'c3',
-                'ng-file-upload'
+                'ng-file-upload',
             ]
         };
     }

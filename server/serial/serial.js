@@ -21,13 +21,13 @@ class serialStream extends Readable
         if(!self.reconnect){
             self.reconnect = setInterval(function(){ 
                 if(!self.arduinoPort){ 
-                    console.log("reconnecting to Arduino Serial"); 
+                    //console.log("reconnecting to Arduino Serial"); 
                     self.findArduino(function(err,port){
                         if(err) console.err(err); 
                         if(port)self.setPort(port); 
                     }); 
                 }  
-            },3000);
+            },5000);
         } 
     } 
     disconnect(){ 

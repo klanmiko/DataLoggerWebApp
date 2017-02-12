@@ -28,6 +28,7 @@ module.exports = function index(req,res){
     })
     .on('done',(error)=>{
         if(error) console.error(error);
+        console.log(`Processed ${array.length} from csv`);
         res.send(array);
     })
 }
