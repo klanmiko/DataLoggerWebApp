@@ -8,18 +8,15 @@ const fileUpload = require('ng-file-upload');
 import c3 from 'c3';
 
 import routes from './display.routes';
-import AverageBuffer from '../../utils/average_buffer.js'
-
-
-var genericsIds = [];
-var graphRenderQueue = [];
-var genericsGraphMap = new Map();
+import AverageBuffer from '../../utils/average_buffer.js';
+import DeltaBuffer from '../../utils/delta_buffer.js';
 
 export class DisplayComponent {
   /*@ngInject*/
   constructor($scope, $http, Upload) {
-    $scope.genericsIds = genericsIds;
-    $scope.genericsGraphMap = genericsGraphMap;
+    $scope.graphRenderQueue = [];
+    $scope.genericsIds = [];
+    $scope.genericsGraphMap = [];
 
     this.tb_initialPointRemoved = false;
     this.tb_count = 0;
@@ -355,14 +352,14 @@ export class DisplayComponent {
               graphData.CAN_Id = simpleVal.CAN_Id;
               graphData.descriptionArr = descriptionArr;
               graphData.graphFormat = simpleVal;
-              graphRenderQueue.push(graphData);
+              $scope.graphRenderQueue.push(graphData);
             }
             $scope.buffers.get(simpleVal.CAN_Id).push(simpleVal);
             break;
         }
       }
       ids.forEach(function(value){
-        genericsIds.push(value);
+        $scope.genericsIds.push(value);
       })
       self.tb_chart.load({
         json:$scope.messages.get("tb_chart"),
@@ -384,7 +381,7 @@ export class DisplayComponent {
         x:'Timestamp',
         value:['state']
       }});
-      console.log(genericsGraphMap);
+      console.log($scope.genericsGraphMap);
     }
     $scope.upload = function(theFile){
       console.log(theFile);
@@ -401,8 +398,8 @@ export class DisplayComponent {
     }
     $scope.$on('updateGraphs', function () {
       console.log("Creating graphs");
-      graphRenderQueue.forEach(function (graph) {
-        genericsGraphMap.set(graph.CAN_Id, c3.generate({
+      $scope.graphRenderQueue.forEach(function (graph) {
+        $scope.genericsGraphMap.set(graph.CAN_Id, c3.generate({
           bindto: '#can' + graph.CAN_Id,
           data: {
             json: [],
@@ -437,7 +434,7 @@ export class DisplayComponent {
           }
         }));
       });
-      genericsGraphMap.forEach(function(graph,key){
+      $scope.genericsGraphMap.forEach(function(graph,key){
         console.log(key);
         graph.load({
           json:$scope.messages.get(key),
@@ -447,8 +444,8 @@ export class DisplayComponent {
           }
         })
       });
-      console.log(genericsGraphMap);
-      graphRenderQueue = [];
+      console.log($scope.genericsGraphMap);
+      $scope.graphRenderQueue.length = 0;
     });
   }
 }

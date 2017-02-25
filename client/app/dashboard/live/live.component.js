@@ -26,14 +26,19 @@ var state_initialPointRemoved = false;
 var state_count = 0;
 var state_chart;
 
+var genericsGraphMap = new Map();
+var genericsBufferMap = new Map();
+var genericsIds = [];
+var graphRenderQueue = [];
 
-function createGraph(CAN_Id,descriptionArr,data)
-{
+function createGraph(CAN_Id, descriptionArr, data, type){
   var bufferInfo = new Object();
-  bufferInfo.buffer = new AverageBuffer(1000, descriptionArr, plotNew);
+  if(type == 'decimal')bufferInfo.buffer = new AverageBuffer(1000, descriptionArr, plotNew);
+  else if(type == 'state')bufferInfo.buffer = new DeltaBuffer(descriptionArr, plotNew);
   bufferInfo.count = 0;
   bufferInfo.firstPointRemoved = false;
   genericsBufferMap.set(CAN_Id, bufferInfo);
+  console.log(genericsBufferMap);
 
   var graphData = new Object();
   graphData.CAN_Id = CAN_Id;
@@ -41,7 +46,38 @@ function createGraph(CAN_Id,descriptionArr,data)
   graphData.graphFormat = data;
   graphRenderQueue.push(graphData);
 }
-
+function bindGenerics(data, type){
+  var descriptionArr = [];
+  var simpleVal = new Object();
+  simpleVal.Timestamp = data.Timestamp;
+  simpleVal.CAN_Id = data.CAN_Id+type;
+  data.generics.forEach(function (generic) {
+    if (generic.dataType == type) {
+      simpleVal[generic.description] = generic.value;
+      descriptionArr.push(generic.description);
+    }
+    else if (generic.dataType == 'array' && generic.subDataType == type && generic.value instanceof Array) {
+      descriptionArr.push(generic.description);
+      for (var i = 0; i < generic.length; i++)
+        simpleVal[generic.description + i] = generic.value[i];
+    }
+  });
+  if(descriptionArr.length>0){
+    if (genericsBufferMap.get(data.CAN_Id+type))//can id already exists
+    {
+      genericsBufferMap.get(data.CAN_Id+type).buffer.push(simpleVal);
+    }
+    else {
+      if( angular.element(document.querySelector('#can'+data.CAN_Id+type)).length ) {
+        console.log("div already exists");
+      }
+      else {
+        genericsIds.push(data.CAN_Id+type);
+      }
+      createGraph(data.CAN_Id+type, descriptionArr, simpleVal, type);
+    }
+  }
+}
 function plotNew(newData) {
   if (newData.CAN_Id == 512 || newData.CAN_Id == 513) {
     var object = new Object();
@@ -133,10 +169,6 @@ function plotNew(newData) {
     }
   }
 }
-var genericsGraphMap = new Map();
-var genericsBufferMap = new Map();
-var genericsIds = [];
-var graphRenderQueue = [];
 
 export class LiveComponent {
   /*@ngInject*/
@@ -149,7 +181,8 @@ export class LiveComponent {
     this.tempBuffer = new AverageBuffer(1000, ['temp_array'], plotNew);
     this.voltageBuffer = new AverageBuffer(1000, ['min_voltage', 'max_voltage', 'pack_voltage'], plotNew);
     this.carStateBuffer = new DeltaBuffer(['state'],plotNew);
-
+    this.carStateBuffer.begin();
+    
     $scope.genericsGraphMap = genericsGraphMap;
     $scope.genericsBufferMap = genericsBufferMap;
     $scope.genericsIds = genericsIds;
@@ -353,10 +386,12 @@ export class LiveComponent {
     $scope.$on('updateGraphs', function () {
       console.log("Creating graphs");
       graphRenderQueue.forEach(function (graph) {
+        console.log(genericsBufferMap.get(graph.CAN_Id));
+        genericsBufferMap.get(graph.CAN_Id).buffer.begin();
         genericsGraphMap.set(graph.CAN_Id, c3.generate({
           bindto: '#can' + graph.CAN_Id,
           data: {
-            json: [],
+            json: [graph.graphFormat],
             xFormat: '%M.%S',
             keys: {
               x: 'Timestamp',
@@ -392,6 +427,7 @@ export class LiveComponent {
     });
 
     $scope.$on('$destroy', function () {
+      console.log("destroy called");
       socket.unsyncUpdates('temp');
       socket.unsyncUpdates('car');
       socket.unsyncUpdates('bms');
@@ -403,10 +439,23 @@ export class LiveComponent {
       batt_count = 0;
       state_initialPointRemoved = false;
       state_count = 0;
+      genericsBufferMap.forEach(function(value, key, map){
+        value.buffer.stop();
+      });
       genericsBufferMap.clear();
       genericsGraphMap.clear();
       delete $scope.genericsIds;
-
+      this.carStateBuffer.stop();
+      this.carStateBuffer.buffer.length = 0;
+      this.throttleBuffer.buffer.length = 0;
+      this.brakeBuffer.buffer.length = 0;
+      this.tempBuffer.buffer.length = 0;
+      this.voltageBuffer.buffer.length = 0;
+      delete this.carStateBuffer;
+      delete this.throttleBuffer;
+      delete this.brakeBuffer;
+      delete this.tempBuffer;
+      delete this.voltageBuffer;
     });
   }
 
@@ -415,7 +464,9 @@ export class LiveComponent {
       if (data) {
         if (data.CAN_Id == 512) this.throttleBuffer.push(data);
         else if (data.CAN_Id == 513) this.brakeBuffer.push(data);
-        else if (data.CAN_Id == 1574) this.carStateBuffer.push(data);
+        else if (data.CAN_Id == 1574){
+           this.carStateBuffer.push(data);
+        }
       }
     }.bind(this));
 
@@ -435,52 +486,10 @@ export class LiveComponent {
         }
       }
     }.bind(this));
-
     this.socket.syncUpdates('data', function (data) {
       if (data && data.generics) {
-        var descriptionArr = [];
-        var simpleVal = new Object();
-
-        simpleVal.Timestamp = data.Timestamp;
-        simpleVal.CAN_Id = data.CAN_Id;
-
-        data.generics.forEach(function (generic) {
-          if (generic.dataType == 'decimal') {
-            simpleVal[generic.description] = generic.value;
-            descriptionArr.push(generic.description);
-          }
-          else if (generic.dataType == 'array' && generic.value instanceof Array) {
-            descriptionArr.push(generic.description);
-            for (var i = 0; i < generic.length; i++)
-              simpleVal[generic.description + i] = generic.value[i];
-          }
-        });
-        if (genericsBufferMap.get(data.CAN_Id))//can id already exists
-        {
-          genericsBufferMap.get(data.CAN_Id).buffer.push(simpleVal);
-        }
-        else {
-          if( angular.element(document.querySelector('#can'+data.CAN_Id)).length ) {
-            console.log("div already exists");
-          }
-          else {
-            genericsIds.push(data.CAN_Id);
-          }
-
-          createGraph(data.CAN_ID,descriptionArr,simpleVal);
-
-          var bufferInfo = new Object();
-          bufferInfo.buffer = new AverageBuffer(1000, descriptionArr, plotNew);
-          bufferInfo.count = 0;
-          bufferInfo.firstPointRemoved = false;
-          genericsBufferMap.set(data.CAN_Id, bufferInfo);
-
-          var graphData = new Object();
-          graphData.CAN_Id = data.CAN_Id;
-          graphData.descriptionArr = descriptionArr;
-          graphData.graphFormat = simpleVal;
-          graphRenderQueue.push(graphData);
-        }
+        bindGenerics(data, "decimal");
+        bindGenerics(data, "state");
       }
     }.bind(this));
   }

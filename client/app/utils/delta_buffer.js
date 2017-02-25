@@ -3,27 +3,44 @@ export class DeltaBuffer {
     this.lastPoints = [];
     this.callback = callback;
     this.keys = keys;
+    this.delta = 0;
     this.keys.forEach(function (key) {
       this.push(NaN);
     }.bind(this.lastPoints));
   }
-
+  stop(){
+    if(this.refresh) clearInterval(this.refresh);
+    this.buffer.length = 0;
+  }
   getKeys() {
     return this.keys;
   }
-
+  begin(){
+    this.refresh = setInterval(function(){
+      this.publishLast();  
+    }.bind(this),1000);
+  }
   push(point) {
     var self = this;
     for (let i = 0; i < this.keys.length; i++) {
-      if (this.lastPoints[i] != point[this.keys[i]]) {
+      if (this.lastPoints[i].point != point[this.keys[i]]) {
         console.log("new point");
         var out = new Object();
         out.Timestamp = point.Timestamp;
         out[this.keys[i]] = point[this.keys[i]];
         out.CAN_Id = point.CAN_Id;
-        this.lastPoints[i] = point[this.keys[i]];
         this.callback(out);
       }
+      this.lastPoints[i] = {time: point.Timestamp, CAN_Id: point.CAN_Id, point: point[this.keys[i]]};
+    }
+  }
+  publishLast(){
+    for(let i=0; i<this.keys.length; i++){
+      var out = new Object();
+      out.CAN_Id = this.lastPoints[i].CAN_Id;
+      out.Timestamp = this.lastPoints[i].time;
+      out[this.keys[i]] = this.lastPoints[i].point;
+      this.callback(out);
     }
   }
 }
