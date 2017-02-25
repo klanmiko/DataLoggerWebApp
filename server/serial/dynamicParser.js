@@ -120,6 +120,7 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
                 var object = new Object();
                 object.description = value.description;
                 object.dataType = value.dataType;
+                if(value.dataType == 'array') object.subDataType = value.array.subDataType;
                 object.value = self.getValue(data.slice(),value);
                 out.generics.push(object);
             }
