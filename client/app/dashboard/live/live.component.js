@@ -60,7 +60,7 @@ function bindGenerics(data, type){
       descriptionArr.push(generic.description);
       for (var i = 0; i < generic.length; i++)
         simpleVal[generic.description + i] = generic.value[i];
-    }
+     }
   });
   if(descriptionArr.length>0){
     if (genericsBufferMap.get(data.CAN_Id+type))//can id already exists
