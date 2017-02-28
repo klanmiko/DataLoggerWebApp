@@ -4,10 +4,11 @@ void setup() {
 }
 int battery[2] = {0x03,0x88};
 int can[2] = {0x06,0x26};
-int generic[2] = {0x07,0x23};
+int generic[2] = {0x07,0x23};rs
 int throttle[2] = {0x02,0x00};
 int temp[2] = {0x04,0x88};
 int state[2] = {0x01,0x87};
+int bms[2] = {0x01,0x88};
 int tempDegrees[6] = {120,80,40,10,0,250};
 int x = 0;
 int state_inc = 0;
@@ -151,6 +152,30 @@ void loop() {
   Serial.write(2);
   Serial.write(2);
   Serial.write(2);
+  Serial.write(0xFF);
+  Serial.write('\n');
+  Serial.flush();
+
+
+  Serial.write(bms[0]);
+  Serial.write(bms[1]);
+  tick = millis();
+  time[0] = (unsigned int)((tick&0xFF000000)>>24);
+  time[1] = (unsigned int)((tick&0x00FF0000)>>16);
+  time[2] = (unsigned int)((tick&0x0000FF00)>>8);
+  time[3] = (unsigned int)(tick&0x000000FF);
+  Serial.write(time[0]);
+  Serial.write(time[1]);
+  Serial.write(time[2]);
+  Serial.write(time[3]);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
+  Serial.write(1);
   Serial.write(0xFF);
   Serial.write('\n');
   Serial.flush();

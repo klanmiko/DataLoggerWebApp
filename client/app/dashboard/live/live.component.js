@@ -26,6 +26,10 @@ var state_initialPointRemoved = false;
 var state_count = 0;
 var state_chart;
 
+var bmsFlag_initialPointRemoved = false;
+var bmsFlag_count = 0;
+var bmsFlag_chart;
+
 var genericsGraphMap = new Map();
 var genericsBufferMap = new Map();
 var genericsIds = [];
@@ -60,7 +64,7 @@ function bindGenerics(data, type){
       descriptionArr.push(generic.description);
       for (var i = 0; i < generic.length; i++)
         simpleVal[generic.description + i] = generic.value[i];
-     }
+    }
   });
   if(descriptionArr.length>0){
     if (genericsBufferMap.get(data.CAN_Id+type))//can id already exists
@@ -150,6 +154,27 @@ function plotNew(newData) {
     }
     temp_count++;
   }
+  else if (newData.CAN_Id == 392) {
+    var object = new Object();
+    object.Timestamp = newData.Timestamp;
+    if (newData.flag) {
+      for (var i = 1; i <= newData.flag.length; i++)
+        if(newData.flag[i])
+          object["f" + i] = i;
+    }
+    if (bmsFlag_count < 50 && bmsFlag_initialPointRemoved) bmsFlag_chart.flow({
+      json: object,
+      length: 0
+    });
+    else {
+      bmsFlag_chart.flow({
+        json: object
+      });
+      bmsFlag_initialPointRemoved = true;
+    }
+    bmsFlag_count++;
+
+  }
   else {
     if (genericsGraphMap.get(newData.CAN_Id)) {
       var graph = genericsGraphMap.get(newData.CAN_Id);
@@ -182,6 +207,8 @@ export class LiveComponent {
     this.voltageBuffer = new AverageBuffer(1000, ['min_voltage', 'max_voltage', 'pack_voltage'], plotNew);
     this.carStateBuffer = new DeltaBuffer(['state'],plotNew);
     this.carStateBuffer.begin();
+    this.bmsStateBuffer = new DeltaBuffer(['flag'],plotNew);
+    this.bmsStateBuffer.begin();
     
     $scope.genericsGraphMap = genericsGraphMap;
     $scope.genericsBufferMap = genericsBufferMap;
@@ -381,7 +408,87 @@ export class LiveComponent {
         height: 600
       }
     });
+    bmsFlag_chart = c3.generate({
+      bindto: '#bms-flag-chart',
+      data: {
+        /*json: [
+         {Timestamp: 0, temp0: 0, temp1: 0, temp2: 0, temp3: 0, temp4: 0, temp5: 0}
+         ],*/
+        json:[],
+        xFormat: '%M.%S',
+        keys: {
+          x: 'Timestamp',
+          value: ['f1','f2','f3','f4','f5','f6','f7','f8','f9','f10','f11','f12','f13','f14','f15','f16']
+        },
+        names: {
+          'f1': 'Charge mode',
+          'f2': 'Pack temp limit exceeded',
+          'f3': 'Pack temp limit close',
+          'f4': 'Pack temperature low limit',
+          'f5': 'Low SOC',
+          'f6': 'Critical SOC',
+          'f7': 'Imbalance',
+          'f8': 'Internal Fault',
+          'f9': 'Negative contactor closed',
+          'f10': 'Positive contactor closed',
+          'f11': 'Isolation fault',
+          'f12': 'Cell too high',
+          'f13': 'Cell too low',
+          'f14': 'Charge halt',
+          'f15': 'Full',
+          'f16': 'Precharge contactor closed'
 
+        },
+        types: {
+          state: 'step'
+        }
+      },
+      axis: {
+        y: {
+          max: 16,
+          min: 0,
+          tick: {
+            format: function(d){
+              switch (d)
+              {
+                case 1 : return  'Charge mode';
+                case 2 : return  'Pack temp limit exceeded';
+                case 3 : return  'Pack temp limit close';
+                case 4 : return  'Pack temperature low limit';
+                case 5 : return  'Low SOC';
+                case 6 : return  'Critical SOC';
+                case 7 : return  'Imbalance';
+                case 8 : return  'Internal Fault';
+                case 9 : return  'Negative contactor closed';
+                case 10 : return 'Positive contactor closed';
+                case 11 : return 'Isolation fault';
+                case 12 : return 'Cell too high';
+                case 13 : return 'Cell too low';
+                case 14 : return 'Charge halt';
+                case 15 : return 'Full';
+                case 16 : return 'Precharge contactor closed';
+              }
+            },
+          }
+        },
+        x: {
+          type: 'timeseries',
+          tick: {
+            format: '%M:%S'
+          },
+          culling:true,
+        }
+      },
+      transition: {
+        duration: 0
+      },
+      subchart: {
+        show: true
+      },
+      size: {
+        height: 600
+      }
+    });
 
     $scope.$on('updateGraphs', function () {
       console.log("Creating graphs");
@@ -482,7 +589,7 @@ export class LiveComponent {
           this.voltageBuffer.push(data);
         }
         if (data.CAN_Id == 392){
-
+          this.bmsStateBuffer.push(data);
         }
       }
     }.bind(this));

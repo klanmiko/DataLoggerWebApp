@@ -52,11 +52,13 @@ function bindGenerics(message, type, ids, $scope){
   }
 }
 
+
 export class DisplayComponent {
   /*@ngInject*/
   constructor($scope, $http, Upload) {
     $scope.graphRenderQueue = [];
     $scope.genericsIds = [];
+
     $scope.genericsGraphMap = new Map();
 
     this.tb_initialPointRemoved = false;
@@ -290,19 +292,17 @@ export class DisplayComponent {
       });
     };
     this.process = function(data){
-      //console.log(data.data);
       $scope.messages = new Map();
       $scope.buffers = new Map();
       var ids = [];
       for(let message of data.data){
-        //console.log($scope.messages);
         switch(message.CAN_Id){
           case 1574:
             var object = new Object();
             object.Timestamp = message.Timestamp;
             object.state = message.state;
             if(!$scope.messages.has(message.CAN_Id))$scope.messages.set(message.CAN_Id,[]);
-            let array = $scope.messages.get(message.CAN_Id);
+            let array =$scope.messages.get(message.CAN_Id);
             if(array.length>1 && array[array.length-1].state==object.state) array.pop();
             array.push(object);
             //let array =$scope.messages.get(message.CAN_Id);
