@@ -5,7 +5,7 @@ export class DeltaBuffer {
     this.keys = keys;
     this.delta = 0;
     this.keys.forEach(function (key) {
-      this.push(NaN);
+      this.push({time:NaN, point:NaN});
     }.bind(this.lastPoints));
   }
   stop(){
@@ -51,9 +51,18 @@ export class DeltaBuffer {
           out.CAN_Id = point.CAN_Id;
           this.callback(out);
         }
-      }
-      this.lastPoints[i] = {time: point.Timestamp, CAN_Id: point.CAN_Id, point: point[this.keys[i]]};
+      this.publishLast();  
+    }.bind(this),1000);
+  }
+  aggregate(){
+    var out = [];
+    for (let i = 0; i < this.keys.length; i++) {
+      let object = new Object();
+      object.Timestamp = this.lastPoints[i].time; 
+      object[this.keys[i]] = this.lastPoints[i].point;
+      out.push(object);
     }
+    return out;
   }
   publishLast(){
     for(let i=0; i<this.keys.length; i++){

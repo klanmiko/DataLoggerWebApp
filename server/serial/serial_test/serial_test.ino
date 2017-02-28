@@ -176,8 +176,6 @@ void loop() {
   Serial.write(1);
   Serial.write(1);
   Serial.write(1);
-
-  
   Serial.write(0xFF);
   Serial.write('\n');
   Serial.flush();

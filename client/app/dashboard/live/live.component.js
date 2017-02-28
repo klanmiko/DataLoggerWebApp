@@ -209,7 +209,7 @@ export class LiveComponent {
     this.carStateBuffer.begin();
     this.bmsStateBuffer = new DeltaBuffer(['flag'],plotNew);
     this.bmsStateBuffer.begin();
-
+    
     $scope.genericsGraphMap = genericsGraphMap;
     $scope.genericsBufferMap = genericsBufferMap;
     $scope.genericsIds = genericsIds;
