@@ -6,13 +6,11 @@ public
 .vscode*
 client/bower_components
 client/index.html
-dist
 /server/config/local.env.js
 npm-debug.log
 coverage
 *.orig
 server/api/upload/files/*
-dist.*
 release.*
 
 client/assets/fonts/bootstrap/glyphicons-halflings-regular\.svg

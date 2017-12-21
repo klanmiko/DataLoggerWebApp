@@ -1,0 +1,1 @@
+{"version":3,"sources":["console/log.js"],"names":["module","exports","console"],"mappings":";;AAAA;;;;;;AAMAA,OAAOC,OAAP,GAAiBC,OAAjB","file":"log.js","sourcesContent":["/*if(process.env.NODE_ENV !== 'test') {\r\n    module.exports = require('./logger.js')\r\n}\r\nelse {\r\n    module.exports = require('./emptyLogger.js')\r\n} */\r\nmodule.exports = console;\r\n"]}

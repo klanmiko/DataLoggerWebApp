@@ -1,0 +1,1 @@
+{"version":3,"sources":["compression.js"],"names":["model","require","Compressor"],"mappings":";;;;;;;;;;;;AAAA,IAAIA,QAAQC,QAAQ,8BAAR,EAAwCD,KAApD;;IACqBE,U,GACjB,sBAAa;AAAA;AAEZ,C;;kBAHgBA,U","file":"compression.js","sourcesContent":["var model = require('./api/db/parse_descriptor.js').model;\r\nexport default class Compressor{\r\n    constructor(){\r\n        \r\n    }\r\n}"]}
