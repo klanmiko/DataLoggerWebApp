@@ -14,13 +14,13 @@ import c3 from 'c3';
 function updateThrottleBrake(throttle, brake) {
   if(throttle || throttle == 0)
   {
-    angular.element(document.querySelector('#throttle-bar')).html(Math.round((throttle / 0x7FFF) * 100) + "%");
+    angular.element(document.querySelector('#throttle-bar')).html(Math.round(throttle / 0x7FFF * 100) + "%");
     document.getElementById("throttle-bar").style.height = 300 * (throttle / 0x7FFF) + "px";
   }
   if(brake || brake == 0)
   {
-    angular.element(document.querySelector('#brake-bar')).html(Math.round(((brake - 0x195) / (0x3FF - 0x195)) * 100) + "%");
-    document.getElementById("brake-bar").style.height = 300 * ((brake - 0x195) / (0x3FF - 0x195)) + "px";
+    angular.element(document.querySelector('#brake-bar')).html(Math.round(brake / 0x7FFF * 100) + "%");
+    document.getElementById("brake-bar").style.height = 300 * (brake / 0x7FFF) + "px";
   }
 }
 /**

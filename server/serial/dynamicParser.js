@@ -7,24 +7,23 @@ class parseStream extends stream.Transform{ //ES6 Javascript is now just Java, a
         options = options || {};
         options.objectMode = true;
         super(options);
+        Descriptor.onload = this.load.bind(this);
+        if(options && options.done)
+            this.load.done(function() {
+                options.done();
+            });
+    }
+    load() {
         var self = this;
         var start = new Date().getTime();
-        this.load = Descriptor.model.find().exec()
-        .then(function(array) {
+        Descriptor.model.find({}, function(err, array) {
+            if(err) console.error(err);
             self.specification = new Map();
             for(let map of array) {
                 self.specification.set(map.CAN_Id, map);
             }
             console.log("db load: " + (new Date().getTime() - start));
         })
-        .catch(function(error) {
-            console.error(error);
-        })
-        .done();
-        if(options && options.done)
-            this.load.done(function() {
-                options.done();
-            });
     }
     _transform(chunk, encoding, next) {
         var transformed = Q.fcall(this.parse.bind(this), chunk);

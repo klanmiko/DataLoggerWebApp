@@ -17,7 +17,6 @@ import lusca from 'lusca';
 import config from './environment';
 import session from 'express-session';
 import connectMongo from 'connect-mongo';
-import mongoose from 'mongoose';
 
 var fs = require('fs');
 var MongoStore = connectMongo(session);
@@ -54,10 +53,6 @@ export default function(app) {
     secret: config.secrets.session,
     saveUninitialized: true,
     resave: false,
-    store: new MongoStore({
-      mongooseConnection: mongoose.connection,
-      db: 'data-logger-web-app'
-    })
   }));
 
   /**

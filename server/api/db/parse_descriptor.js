@@ -1,12 +1,10 @@
-var Mongoose = require('mongoose');
-Mongoose.Promise = require('q').Promise;
+var DataStore = require('nedb');
 var path = require('path');
 var local = path.resolve(__dirname);
 var fs = require('fs');
 var assert = require('assert');
-var mongoose = Mongoose.createConnection("mongodb://localhost/data");
 
-var canDescription  = new Mongoose.Schema({
+/*var canDescription  = new Mongoose.Schema({
     CAN_Id: {
         type:Number,
         unique:true,
@@ -31,26 +29,30 @@ var canDescription  = new Mongoose.Schema({
             }
         }
         }]
-});
-var model = mongoose.model('Descriptor', canDescription);
+});*/
+var database = new DataStore({filename: path.resolve(__dirname, "./data/descriptors"), autoload: true});
+database.ensureIndex({fieldName: "CAN_Id", unique: true}, (err) => {if(err) console.error(err)});
+
 (function load() {
     fs.readFile(`${local}/defaults.conf`, function(err, data) {
         var defaults = JSON.parse(data);
         console.log(defaults);
         Object.keys(defaults).forEach(function(key) {
-            model.count({"CAN_Id": defaults[key].CAN_Id}, function(err, countr){
+            database.count({"CAN_Id": defaults[key].CAN_Id}, function(err, countr){
                 if(countr == 0) {
                     if(defaults[key]){
-                        model.create(defaults[key], function(err) {
+                        database.insert(defaults[key], function(err) {
                             if(err) console.error(err);
                         });
                     }
                 }
             })
         });
+        setTimeout(module.exports.onload, 1000);
     });
 }());
-module.exports.model = model;
+module.exports.model = database;
+module.exports.onload = function(){};
 module.exports.reset = function(cb) {
     fs.readFile(`${local}/defaults.conf`, function(err, data) {
         if(err) {
@@ -60,14 +62,13 @@ module.exports.reset = function(cb) {
         }
         var defaults = JSON.parse(data);
         let error = null;
-        model.remove({}, function(err) {
+        database.remove({}, {multi: true}, function(err) {
             if(err) {
                 cb(err);
                 return;
             }
             Object.keys(defaults).forEach(function(key) {
-                let CAN = new model(defaults[key]);
-                CAN.save(function(err) {
+                database.insert(defaults[key], function(err) {
                     if(err) {
                         console.error("error saving doc");
                         error = err;

@@ -5,9 +5,6 @@ class Controller{
         this.parser = parser;
         this.cache = new Map();
         this.hookParser(this.parser);
-        this.db.ready(function(){
-            this.collection = this.db.collection;
-        }.bind(this));
     }
     getActive() {
         return this.collection;
@@ -24,19 +21,18 @@ class Controller{
             return;
         } 
         var database = new dbStream();
-        this.parser.pipe(database);
+        this.parser.load();
         this.parser.resume();
         this.hookParser(this.parser);
         database.ready(function(){
-            this.collection = database.collection;            
-            res.status(200).send(database.collection.collectionName);
+            res.status(200).send("demo");
         }.bind(this));
         this.db = database;
     }
     stop(req, res) {
         this.parser.unpipe();
         this.parser.pause();
-        this.parser.specification = [];
+        this.parser.specification = null;
         this.db.save();
         this.cache.clear();
         res.status(200).send("Stopped");
@@ -45,7 +41,7 @@ class Controller{
         if(this.parser.isPaused()) res.status(200).send("Stopped");
         else if(this.db&&this.db.collection&&this.db.collection.collectionName) res.status(200).send(this.db.collection.collectionName);
         else{
-            res.sendStatus(401);
+            res.send("demo")
         }
     }
     last(req,res){

@@ -3,18 +3,17 @@ var model = ParseDescriptor.model;
 var Validator = require('../validator.js');
 
 export function listDescriptor(req, res) {
-    model.find({}, {_id: 0, CAN_Id: 1, PDO_Description: 1}, function(err, result) {
+    model.find({}, {_id: 0}, function(err, result) {
         if(err) {
             console.error(err);
             res.sendStatus(401);
             return;
         }
-        console.log(result);
         res.send(result);
     });
 }
 export function getDescriptor(req, res) {
-    model.findOne({CAN_Id: req.params.descriptor}, {_id: 0, "map.key": 0}, function(err, result) {
+    model.findOne({CAN_Id: Number(req.params.descriptor)}, {_id: 0, "map.key": 0}, function(err, result) {
         if(err) {
             console.error(err);
             res.sendStatus(401);
@@ -36,11 +35,9 @@ export function updateDescriptor(req, res) {
         set.CAN_Id = request.CAN_Id;
         set.PDO_Description = request.PDO_Description;
         var count;
-        model.findOne({CAN_Id: req.params.descriptor}).select("map")
-        .exec()
-        .then(function(document) {
+        model.findOne({CAN_Id: Number(req.params.descriptor)})
+        .exec(function(err, document) {
             if(document) {
-                document = document.toObject();
                 count = document.map.length;
                 if(document.map.length > request.map.length) throw new Error("too few fields");
                 for(var i = 0; i < count; i++) {
@@ -54,25 +51,25 @@ export function updateDescriptor(req, res) {
                 var add = request.map.slice(count, request.map.length);
                 console.log("add");
                 console.log(add);
-                model.findOneAndUpdate({CAN_Id: req.params.descriptor}, {$set: set, $unset: unset}, {upsert: false, new: true}, function(err, doc) {
+                model.update({CAN_Id: Number(req.params.descriptor)}, {$set: set, $unset: unset}, {upsert: false, multi: false}, function(err, doc) {
                     if(err) {
                         console.error(err);
                         res.status(501).send("invalid update procedure");
                         return;
                     }
-                    doc = doc.toObject();
-                    model.findOneAndUpdate({CAN_Id: doc.CAN_Id}, {$addToSet: {map: {$each: add}}}, {upsert: true, new: true}, function(err, doc) {
+                    model.update({CAN_Id: Number(req.params.descriptor)}, {$addToSet: {map: {$each: add}}}, {upsert: true, multi: false, returnUpdatedDocs: true}, function(err, num, doc) {
                         if(err) {
                             console.error(err);
                             res.status(501).send("invalid update procedure");
                             return;
                         }
+                        console.log(doc)
                         res.status(200).send(doc);
                     });
                 });
             }
             else{
-                model.create(request, function(err) {
+                model.insert(request, function(err) {
                     if(err) {
                         console.log("error creating documents");
                         console.error(err);
@@ -81,11 +78,7 @@ export function updateDescriptor(req, res) {
                     res.sendStatus(200);
                 });
             }
-        })
-        .catch(function(err) {
-            console.error(err);
-        })
-        .done();
+        });
     }
     catch(e){
         console.log(e);
@@ -102,13 +95,13 @@ export function deleteMap(req,res){
             key: {$exists: false}
         };
         console.log(element);
-        model.find({CAN_Id: req.params.descriptor, map: {$elemMatch: element}}).select({map: 1, _id: 0})
-        .exec()
-        .then(function(doc) {
+        model.find({CAN_Id: Number(req.params.descriptor), map: {$elemMatch: element}}, {map: 1, _id: 0})
+        .exec(function(err, doc) {
             //console.log("we're here");
+            if(err) console.error(err);
             if(doc && doc.length > 0) {
                 delete element.key;
-                model.findOneAndUpdate({CAN_Id: req.params.descriptor}, {$pull: {map: element}}, {multi: false,upsert: false}, function(err, doc) {
+                model.update({CAN_Id: Number(req.params.descriptor)}, {$pull: {map: element}}, {multi: false,upsert: false,returnUpdatedDocs:true}, function(err, num, doc) {
                     if(err){
                         console.error(err);
                         res.status(501).send("invalid update procedure");
@@ -120,18 +113,18 @@ export function deleteMap(req,res){
             else {
                 res.status(401).send("can't delete core mapping");
             }
-        }, function(err) {
-            if(err) console.error(err);
-            res.status(501).send("invalid update procedure");
         });
         /**/
     }
     else {
-        model.find({CAN_Id: req.params.descriptor, "map.key": {$exists: true}}).exec()
-        .then(function(doc) {
+        model.find({CAN_Id: Number(req.params.descriptor), "map.key": {$exists: true}}).exec(function(err, doc) {
+            if(err){
+                console.error(err);
+                return res.status(501).send("invalid delete procedure");
+            }
             console.log(doc);
             if(!doc || (doc instanceof Array && doc.length == 0)) {
-                model.remove({CAN_Id: req.params.descriptor}, function(err) {
+                model.remove({CAN_Id: Number(req.params.descriptor)}, function(err) {
                     if(err) {
                         console.log(err);
                         res.status(501).send("invalid delete procedure");
@@ -143,9 +136,6 @@ export function deleteMap(req,res){
             else {
                 res.status(401).send("can't delete core mapping");
             }
-        }, function(err) {
-            if(err) console.error(err);
-            res.status(501).send("invalid delete procedure");
         });
     }
 }
